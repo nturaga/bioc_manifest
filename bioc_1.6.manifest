@@ -161,6 +161,8 @@ Package: ChromoViz
 
 Package: MLInterfaces
 
+Package: rfcdmin
+
 Package: rflowcyt
 
 Package: msbase
