@@ -15,6 +15,7 @@ Package: geneplotter
 
 Package: rhdf5
 
+
 Package: multtest
 
 Package: ctc
@@ -80,8 +81,6 @@ Package: ontoTools
 Package: AnnBuilder
 
 Package: RBGL
-
-Package: gtkWidgets
 
 Package: webbioc
 
@@ -202,8 +201,6 @@ Package: CoCiteStats
 Package: apComplex
 
 Package: GeneR
-
-Package: plier
 
 Package: biomaRt
 
