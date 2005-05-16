@@ -15,7 +15,6 @@ Package: geneplotter
 
 Package: rhdf5
 
-
 Package: multtest
 
 Package: ctc
@@ -25,7 +24,6 @@ Package: ROC
 Package: tkWidgets
 
 Package: reposTools
-WarnExcept: TRUE
 
 Package: affy
 
@@ -54,7 +52,6 @@ Package: pamr
 Package: gcrma
 
 Package: matchprobes
-WarnExcept: TRUE
 
 Package: siggenes
 
@@ -95,6 +92,8 @@ Package: pickgene
 Package: Biostrings
 
 Package: qvalue
+
+Package: splicegear
 
 Package: GeneSpring
 
