@@ -24,7 +24,6 @@ Package: ROC
 Package: tkWidgets
 
 Package: reposTools
-WarnExcept: TRUE
 
 Package: affy
 
@@ -55,7 +54,6 @@ Package: splicegear
 Package: gcrma
 
 Package: matchprobes
-WarnExcept: TRUE
 
 Package: siggenes
 
@@ -261,3 +259,6 @@ Package: maDB
 
 Package: GeneMeta
 
+Package: oligo
+
+Package: makePlatformDesign
