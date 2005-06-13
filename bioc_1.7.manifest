@@ -262,3 +262,5 @@ Package: GeneMeta
 Package: oligo
 
 Package: makePlatformDesign
+
+Package: clusterStab
