@@ -264,3 +264,5 @@ Package: oligo
 Package: makePlatformDesign
 
 Package: clusterStab
+
+Package: pdmclass
