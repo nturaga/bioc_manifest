@@ -266,3 +266,5 @@ Package: makePlatformDesign
 Package: clusterStab
 
 Package: pdmclass
+
+Package: affyQCReport
