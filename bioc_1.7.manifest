@@ -213,8 +213,6 @@ Package: CoCiteStats
 
 Package: apComplex
 
-Package: GeneR
-
 Package: plier
 
 Package: biomaRt
