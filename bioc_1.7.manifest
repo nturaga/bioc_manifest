@@ -272,3 +272,5 @@ Package: mmgmos
 Package: fdrame
 
 Package: LMGene
+
+Package: diffGeneAnalysis
