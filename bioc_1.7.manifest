@@ -286,3 +286,5 @@ Package: arji
 Package: Rredland
 
 Package: affxparser
+
+Package: biocViews
