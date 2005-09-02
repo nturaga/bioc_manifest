@@ -288,3 +288,5 @@ Package: Rredland
 Package: affxparser
 
 Package: biocViews
+
+Package: GlobalAncova
