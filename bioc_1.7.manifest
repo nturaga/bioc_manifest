@@ -290,3 +290,5 @@ Package: affxparser
 Package: biocViews
 
 Package: GlobalAncova
+
+Package: maSigPro
