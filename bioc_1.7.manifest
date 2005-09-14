@@ -292,3 +292,5 @@ Package: biocViews
 Package: GlobalAncova
 
 Package: maSigPro
+
+Package: RLMM
