@@ -105,6 +105,8 @@ Package: Biostrings
 
 Package: qvalue
 
+Package: GeneR
+
 Package: GeneSpring
 
 Package: GeneTS
