@@ -85,10 +85,6 @@ Package: RBGL
 
 Package: gtkWidgets
 
-Package: exprExternal
-
-Package: exprDB
-
 Package: webbioc
 
 Package: ecolitk
@@ -282,10 +278,6 @@ Package: timecourse
 Package: reb
 
 Package: maanova
-
-Package: arji
-
-Package: Rredland
 
 Package: affxparser
 
