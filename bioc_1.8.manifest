@@ -296,3 +296,5 @@ Package: GlobalAncova
 Package: maSigPro
 
 Package: RLMM
+
+Package: simulatorAPMS
