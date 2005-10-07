@@ -298,3 +298,5 @@ Package: maSigPro
 Package: RLMM
 
 Package: simulatorAPMS
+
+Package: affycoretools
