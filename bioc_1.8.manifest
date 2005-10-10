@@ -300,3 +300,5 @@ Package: RLMM
 Package: simulatorAPMS
 
 Package: affycoretools
+
+Package: MANOR
