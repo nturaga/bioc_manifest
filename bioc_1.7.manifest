@@ -83,8 +83,6 @@ Package: AnnBuilder
 
 Package: RBGL
 
-Package: gtkWidgets
-
 Package: webbioc
 
 Package: ecolitk
@@ -263,25 +261,17 @@ Package: mmgmos
 
 Package: fdrame
 
-Package: LMGene
-
 Package: diffGeneAnalysis
 
 Package: timecourse
 
 Package: reb
 
-Package: maanova
-
 Package: affxparser
-
-Package: biocViews
 
 Package: GlobalAncova
 
 Package: maSigPro
-
-Package: RLMM
 
 Package: simulatorAPMS
 
