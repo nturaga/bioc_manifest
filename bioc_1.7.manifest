@@ -276,3 +276,5 @@ Package: maSigPro
 Package: simulatorAPMS
 
 Package: MANOR
+
+Package: maanova
