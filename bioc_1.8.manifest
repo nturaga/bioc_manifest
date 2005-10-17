@@ -302,3 +302,7 @@ Package: simulatorAPMS
 Package: affycoretools
 
 Package: MANOR
+
+Package: applera
+
+Package: MantelCorr
