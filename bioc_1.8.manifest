@@ -318,3 +318,7 @@ Package: codelink
 Package: LPEP
 
 Package: metaArray
+
+Package: snapCGH
+
+Package: sscore
