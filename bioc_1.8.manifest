@@ -201,6 +201,8 @@ Package: DEDS
 
 Package: stepNorm
 
+Package: MVCClass
+
 Package: iSPlot
 
 Package: macat
