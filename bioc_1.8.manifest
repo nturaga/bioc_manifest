@@ -326,3 +326,5 @@ Package: snapCGH
 Package: sscore
 
 Package: ScISI
+
+Package: beadarray
