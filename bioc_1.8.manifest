@@ -330,3 +330,5 @@ Package: sscore
 Package: ScISI
 
 Package: beadarray
+
+Package: Mfuzz
