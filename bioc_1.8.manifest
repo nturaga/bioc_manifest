@@ -338,3 +338,5 @@ Package: StepGram
 Package: adSplit
 
 Package: RPostgreSQL
+
+Package: copa
