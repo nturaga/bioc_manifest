@@ -344,3 +344,5 @@ Package: copa
 Package: GeneRfold
 
 Package: sizepower
+
+Package: SNPscan
