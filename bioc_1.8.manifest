@@ -346,3 +346,5 @@ Package: GeneRfold
 Package: sizepower
 
 Package: SNPscan
+
+Package: cellHTS
