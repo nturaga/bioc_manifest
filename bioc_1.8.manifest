@@ -348,3 +348,6 @@ Package: sizepower
 Package: SNPscan
 
 Package: cellHTS
+
+Package: EBImage
+
