@@ -354,3 +354,9 @@ Package: EBImage
 Package: OCplus
 
 Package: Heatplus
+
+Package: maCorrPlot
+
+Package: nudge
+
+Package: cghMCR
