@@ -360,3 +360,5 @@ Package: maCorrPlot
 Package: nudge
 
 Package: cghMCR
+
+Package: RMAPPER
