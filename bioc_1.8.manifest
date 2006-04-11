@@ -366,3 +366,5 @@ Package: RMAPPER
 Package: OrderedList
 
 Package: logicFS
+
+Package: GenomeBase
