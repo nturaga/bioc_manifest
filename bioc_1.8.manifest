@@ -13,8 +13,6 @@ Package: genefilter
 
 Package: geneplotter
 
-Package: rhdf5
-
 Package: multtest
 
 Package: ctc
@@ -89,8 +87,6 @@ Package: gtkWidgets
 
 Package: exprExternal
 
-Package: exprDB
-
 Package: webbioc
 
 Package: ecolitk
@@ -98,8 +94,6 @@ Package: ecolitk
 Package: affypdnn
 
 Package: simpleaffy
-
-Package: LPE
 
 Package: pickgene
 
@@ -179,8 +173,6 @@ Package: rfcdmin
 
 Package: rflowcyt
 
-Package: msbase
-
 Package: KEGGSOAP
 
 Package: nnNorm
@@ -223,8 +215,6 @@ Package: plier
 
 Package: biomaRt
 
-Package: mscalib
-
 Package: made4
 
 Package: spotSegmentation
@@ -263,10 +253,6 @@ Package: maDB
 
 Package: GeneMeta
 
-Package: oligo
-
-Package: makePlatformDesign
-
 Package: clusterStab
 
 Package: pdmclass
@@ -286,10 +272,6 @@ Package: timecourse
 Package: reb
 
 Package: maanova
-
-Package: arji
-
-Package: Rredland
 
 Package: affxparser
 
@@ -337,15 +319,9 @@ Package: StepGram
 
 Package: adSplit
 
-Package: RPostgreSQL
-
 Package: copa
 
-Package: GeneRfold
-
 Package: sizepower
-
-Package: SNPscan
 
 Package: cellHTS
 
