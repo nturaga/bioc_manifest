@@ -301,8 +301,6 @@ Package: GEOquery
 
 Package: codelink
 
-Package: LPEP
-
 Package: metaArray
 
 Package: snapCGH
