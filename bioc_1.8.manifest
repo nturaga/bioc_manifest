@@ -342,3 +342,5 @@ Package: logicFS
 Package: GenomeBase
 
 Package: y2hStat
+
+Package: LPE
