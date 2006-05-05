@@ -370,3 +370,5 @@ Package: logicFS
 Package: GenomeBase
 
 Package: y2hStat
+
+Package: TypeInfo
