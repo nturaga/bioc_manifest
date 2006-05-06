@@ -23,8 +23,6 @@ Package: ROC
 
 Package: tkWidgets
 
-Package: reposTools
-
 Package: affyio
 
 Package: affy
