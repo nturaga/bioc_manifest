@@ -374,3 +374,5 @@ Package: TypeInfo
 Package: gaggle
 
 Package: sigPathway
+
+Package: ABarray
