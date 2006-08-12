@@ -391,5 +391,9 @@ Package: pcot2
 
 Package: spikeLI
 
+Package: MVCClass
+
+Package: BioMVCClass
+
 Package: iSNetwork
 
