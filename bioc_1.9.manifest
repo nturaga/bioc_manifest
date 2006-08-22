@@ -402,3 +402,5 @@ Package: lapmix
 Package: weaver
 
 Package: GGtools
+
+Package: beadarraySNP
