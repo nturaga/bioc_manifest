@@ -365,7 +365,7 @@ Package: OrderedList
 
 Package: logicFS
 
-Package: GenomeBase
+Package: BSgenome
 
 Package: y2hStat
 
