@@ -402,3 +402,6 @@ Package: weaver
 Package: GGtools
 
 Package: beadarraySNP
+
+Package: splots
+
