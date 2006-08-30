@@ -403,5 +403,7 @@ Package: GGtools
 
 Package: beadarraySNP
 
+Package: pkgDepTools
+
 Package: splots
 
