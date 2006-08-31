@@ -407,3 +407,5 @@ Package: pkgDepTools
 
 Package: splots
 
+Package: arrayQCplot
+
