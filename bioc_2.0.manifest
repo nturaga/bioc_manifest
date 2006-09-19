@@ -113,8 +113,6 @@ Package: GeneTS
 
 Package: impute
 
-Package: SNAData
-
 Package: rama
 
 Package: Icens
@@ -172,8 +170,6 @@ Package: OLIN
 Package: ChromoViz
 
 Package: MLInterfaces
-
-Package: rfcdmin
 
 Package: rflowcyt
 
