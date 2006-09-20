@@ -361,8 +361,6 @@ Package: logicFS
 
 Package: BSgenome
 
-Package: y2hStat
-
 Package: TypeInfo
 
 Package: gaggle
