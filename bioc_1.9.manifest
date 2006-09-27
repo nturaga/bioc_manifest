@@ -13,8 +13,6 @@ Package: genefilter
 
 Package: geneplotter
 
-Package: rhdf5
-
 Package: multtest
 
 Package: ctc
@@ -83,11 +81,7 @@ Package: AnnBuilder
 
 Package: RBGL
 
-Package: gtkWidgets
-
 Package: exprExternal
-
-Package: exprDB
 
 Package: webbioc
 
@@ -173,8 +167,6 @@ Package: MLInterfaces
 
 Package: rflowcyt
 
-Package: msbase
-
 Package: KEGGSOAP
 
 Package: nnNorm
@@ -214,8 +206,6 @@ Package: apComplex
 Package: plier
 
 Package: biomaRt
-
-Package: mscalib
 
 Package: made4
 
@@ -279,8 +269,6 @@ Package: reb
 
 Package: maanova
 
-Package: arji
-
 Package: Rredland
 
 Package: affxparser
@@ -290,8 +278,6 @@ Package: biocViews
 Package: GlobalAncova
 
 Package: maSigPro
-
-Package: RLMM
 
 Package: simulatorAPMS
 
@@ -311,8 +297,6 @@ Package: GEOquery
 
 Package: codelink
 
-Package: LPEP
-
 Package: metaArray
 
 Package: snapCGH
@@ -329,15 +313,9 @@ Package: StepGram
 
 Package: adSplit
 
-Package: RPostgreSQL
-
 Package: copa
 
-Package: GeneRfold
-
 Package: sizepower
-
-Package: SNPscan
 
 Package: cellHTS
 
@@ -361,8 +339,6 @@ Package: logicFS
 
 Package: BSgenome
 
-Package: TypeInfo
-
 Package: gaggle
 
 Package: sigPathway
@@ -370,8 +346,6 @@ Package: sigPathway
 Package: ABarray
 
 Package: Harshlight
-
-Package: prism
 
 Package: BeadExplorer
 
@@ -387,17 +361,9 @@ Package: BioMVCClass
 
 Package: iSNetwork
 
-Package: lapmix
-
-Package: weaver
-
 Package: GGtools
 
 Package: beadarraySNP
-
-Package: pkgDepTools
-
-Package: splots
 
 Package: arrayQCplot
 
