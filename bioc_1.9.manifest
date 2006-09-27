@@ -375,3 +375,7 @@ Package: pcaMethods
 
 Package: RbcBook1
 
+Package: weaver
+
+Package: pkgDepTools
+
