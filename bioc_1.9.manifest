@@ -339,6 +339,8 @@ Package: logicFS
 
 Package: BSgenome
 
+Package: TypeInfo
+
 Package: gaggle
 
 Package: sigPathway
@@ -361,9 +363,13 @@ Package: BioMVCClass
 
 Package: iSNetwork
 
+Package: weaver
+
 Package: GGtools
 
 Package: beadarraySNP
+
+Package: pkgDepTools
 
 Package: arrayQCplot
 
@@ -374,8 +380,4 @@ Package: nem
 Package: pcaMethods
 
 Package: RbcBook1
-
-Package: weaver
-
-Package: pkgDepTools
 
