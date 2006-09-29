@@ -241,10 +241,6 @@ Package: maDB
 
 Package: GeneMeta
 
-Package: oligo
-
-Package: makePlatformDesign
-
 Package: clusterStab
 
 Package: pdmclass
