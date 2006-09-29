@@ -59,8 +59,6 @@ Package: annaffy
 
 Package: daMA
 
-Package: externalVector
-
 Package: RMAGEML
 
 Package: gpls
@@ -80,8 +78,6 @@ Package: ontoTools
 Package: AnnBuilder
 
 Package: RBGL
-
-Package: exprExternal
 
 Package: webbioc
 
