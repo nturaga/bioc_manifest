@@ -367,6 +367,8 @@ Package: beadarraySNP
 
 Package: pkgDepTools
 
+Package: splots
+
 Package: arrayQCplot
 
 Package: SAGx
