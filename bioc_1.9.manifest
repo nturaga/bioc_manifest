@@ -219,8 +219,6 @@ Package: MCRestimate
 
 Package: xcms
 
-Package: MiPP
-
 Package: idiogram
 
 Package: geneRecommender
