@@ -417,3 +417,5 @@ Package: SemSim
 
 Package: AnnotationDbi
 
+Package: cosmo
+
