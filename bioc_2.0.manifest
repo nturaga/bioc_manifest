@@ -27,8 +27,6 @@ Package: affyio
 
 Package: affy
 
-Package: affydata
-
 Package: vsn
 
 Package: graph
