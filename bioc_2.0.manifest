@@ -411,6 +411,12 @@ Package: ppiStats
 
 Package: flowCore
 
+Package: flowUtils
+
+Package: flowQ
+
+Package: flowViz
+
 Package: SemSim
 
 Package: AnnotationDbi
