@@ -429,3 +429,8 @@ Package: occugene
 
 Package: lumi
 
+Package: pdInfoBuilder
+
+Package: BufferedMatrix
+
+Package: BufferedMatrixMethods
