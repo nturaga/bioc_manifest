@@ -434,3 +434,6 @@ Package: pdInfoBuilder
 Package: BufferedMatrix
 
 Package: BufferedMatrixMethods
+
+Package: GeneticsBase
+
