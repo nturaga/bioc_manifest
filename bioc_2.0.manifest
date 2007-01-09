@@ -438,3 +438,6 @@ Package: BufferedMatrixMethods
 Package: GeneticsDesign
 
 Package: seqLogo
+
+Package: cosmoGUI
+
