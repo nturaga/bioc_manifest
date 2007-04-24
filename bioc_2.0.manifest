@@ -13,8 +13,6 @@ Package: genefilter
 
 Package: geneplotter
 
-Package: rhdf5
-
 Package: multtest
 
 Package: ctc
@@ -59,8 +57,6 @@ Package: annaffy
 
 Package: daMA
 
-Package: externalVector
-
 Package: RMAGEML
 
 Package: gpls
@@ -82,10 +78,6 @@ Package: AnnBuilder
 Package: RBGL
 
 Package: gtkWidgets
-
-Package: exprExternal
-
-Package: exprDB
 
 Package: webbioc
 
@@ -132,8 +124,6 @@ Package: limmaGUI
 Package: marray
 
 Package: convert
-
-Package: pairseqsim
 
 Package: Resourcerer
 
@@ -185,8 +175,6 @@ Package: twilight
 
 Package: hopach
 
-Package: stam
-
 Package: OLINgui
 
 Package: DEDS
@@ -200,8 +188,6 @@ Package: iSPlot
 Package: macat
 
 Package: SBMLR
-
-Package: sagenhaft
 
 Package: bioDist
 
@@ -226,8 +212,6 @@ Package: safe
 Package: plgem
 
 Package: RankProd
-
-Package: MCRestimate
 
 Package: xcms
 
@@ -263,15 +247,11 @@ Package: pdmclass
 
 Package: affyQCReport
 
-Package: mmgmos
-
 Package: fdrame
 
 Package: LMGene
 
 Package: diffGeneAnalysis
-
-Package: timecourse
 
 Package: reb
 
@@ -297,8 +277,6 @@ Package: affycoretools
 
 Package: MANOR
 
-Package: applera
-
 Package: MantelCorr
 
 Package: panp
@@ -308,8 +286,6 @@ Package: pathRender
 Package: GEOquery
 
 Package: codelink
-
-Package: LPEP
 
 Package: metaArray
 
@@ -346,8 +322,6 @@ Package: OCplus
 Package: Heatplus
 
 Package: maCorrPlot
-
-Package: nudge
 
 Package: cghMCR
 
@@ -410,10 +384,6 @@ Package: RbcBook1
 Package: ppiStats
 
 Package: flowCore
-
-Package: flowUtils
-
-Package: flowQ
 
 Package: flowViz
 
