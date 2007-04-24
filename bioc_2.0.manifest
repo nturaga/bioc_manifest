@@ -225,8 +225,6 @@ Package: ssize
 
 Package: bridge
 
-Package: gff3Plotter
-
 Package: hypergraph
 
 Package: Category
