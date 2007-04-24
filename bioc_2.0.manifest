@@ -369,8 +369,6 @@ Package: flowViz
 
 Package: SemSim
 
-Package: AnnotationDbi
-
 Package: cosmo
 
 Package: RefPlus
