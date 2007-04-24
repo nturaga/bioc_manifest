@@ -161,8 +161,6 @@ Package: MLInterfaces
 
 Package: rflowcyt
 
-Package: msbase
-
 Package: KEGGSOAP
 
 Package: nnNorm
@@ -198,8 +196,6 @@ Package: apComplex
 Package: plier
 
 Package: biomaRt
-
-Package: mscalib
 
 Package: made4
 

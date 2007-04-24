@@ -83,10 +83,6 @@ Package: RBGL
 
 Package: gtkWidgets
 
-Package: exprExternal
-
-Package: exprDB
-
 Package: webbioc
 
 Package: ecolitk
@@ -171,8 +167,6 @@ Package: MLInterfaces
 
 Package: rflowcyt
 
-Package: msbase
-
 Package: KEGGSOAP
 
 Package: nnNorm
@@ -212,8 +206,6 @@ Package: apComplex
 Package: plier
 
 Package: biomaRt
-
-Package: mscalib
 
 Package: made4
 
@@ -297,8 +289,6 @@ Package: affycoretools
 
 Package: MANOR
 
-Package: applera
-
 Package: MantelCorr
 
 Package: panp
@@ -308,8 +298,6 @@ Package: pathRender
 Package: GEOquery
 
 Package: codelink
-
-Package: LPEP
 
 Package: metaArray
 
