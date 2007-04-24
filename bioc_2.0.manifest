@@ -77,8 +77,6 @@ Package: AnnBuilder
 
 Package: RBGL
 
-Package: gtkWidgets
-
 Package: webbioc
 
 Package: ecolitk
@@ -251,8 +249,6 @@ Package: reb
 
 Package: maanova
 
-Package: arji
-
 Package: Rredland
 
 Package: affxparser
@@ -262,8 +258,6 @@ Package: biocViews
 Package: GlobalAncova
 
 Package: maSigPro
-
-Package: RLMM
 
 Package: simulatorAPMS
 
@@ -293,15 +287,9 @@ Package: beadarray
 
 Package: Mfuzz
 
-Package: StepGram
-
 Package: adSplit
 
-Package: RPostgreSQL
-
 Package: copa
-
-Package: GeneRfold
 
 Package: sizepower
 
@@ -336,8 +324,6 @@ Package: sigPathway
 Package: ABarray
 
 Package: Harshlight
-
-Package: prism
 
 Package: BeadExplorer
 
@@ -388,8 +374,6 @@ Package: AnnotationDbi
 Package: cosmo
 
 Package: RefPlus
-
-Package: occugene
 
 Package: lumi
 
