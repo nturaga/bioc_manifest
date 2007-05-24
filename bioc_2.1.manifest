@@ -25,6 +25,8 @@ Package: tkWidgets
 
 Package: affyio
 
+Package: preprocessCore
+
 Package: affy
 
 Package: vsn
