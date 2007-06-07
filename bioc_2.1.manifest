@@ -472,3 +472,6 @@ Package: bgx
 Package: puma
 
 Package: GSEABase
+
+Package: cellHTS2
+
