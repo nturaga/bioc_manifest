@@ -494,3 +494,6 @@ Package: CGHcall
 Package: AffyExpress
 
 Package: oligoClasses
+
+Package: ICE
+
