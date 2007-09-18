@@ -83,8 +83,6 @@ Package: AnnBuilder
 
 Package: RBGL
 
-Package: gtkWidgets
-
 Package: webbioc
 
 Package: ecolitk
