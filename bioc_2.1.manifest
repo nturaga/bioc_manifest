@@ -453,8 +453,6 @@ Package: RWebServices
 
 Package: MassSpecWavelet
 
-Package: GeneticsPed
-
 Package: CORREP
 
 Package: oneChannelGUI
