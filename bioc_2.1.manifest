@@ -389,8 +389,6 @@ Package: flowCore
 
 Package: flowUtils
 
-Package: flowQ
-
 Package: flowViz
 
 Package: SemSim
