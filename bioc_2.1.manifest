@@ -247,8 +247,6 @@ Package: pdmclass
 
 Package: affyQCReport
 
-Package: mmgmos
-
 Package: fdrame
 
 Package: LMGene
