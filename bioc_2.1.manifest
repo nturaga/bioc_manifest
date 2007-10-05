@@ -185,6 +185,8 @@ Package: macat
 
 Package: SBMLR
 
+Package: sagenhaft
+
 Package: bioDist
 
 Package: CoCiteStats
