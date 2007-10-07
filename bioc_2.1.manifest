@@ -371,8 +371,6 @@ Package: ppiStats
 
 Package: flowCore
 
-Package: flowUtils
-
 Package: flowViz
 
 Package: SemSim
