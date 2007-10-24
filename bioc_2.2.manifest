@@ -379,8 +379,6 @@ Package: pkgDepTools
 
 Package: splots
 
-Package: arrayQCplot
-
 Package: SAGx
 
 Package: nem
