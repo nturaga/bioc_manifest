@@ -161,8 +161,6 @@ Package: arrayMagic
 
 Package: OLIN
 
-Package: ChromoViz
-
 Package: MLInterfaces
 
 Package: rflowcyt
@@ -332,8 +330,6 @@ Package: maCorrPlot
 Package: nudge
 
 Package: cghMCR
-
-Package: RMAPPER
 
 Package: OrderedList
 
