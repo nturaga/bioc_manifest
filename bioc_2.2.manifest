@@ -139,8 +139,6 @@ Package: RSNPper
 
 Package: GOstats
 
-Package: bim
-
 Package: aCGH
 
 Package: HEM
@@ -494,4 +492,6 @@ Package: yaqcaffy
 Package: Rdisop
 
 Package: xps
+
+Package: Rtreemix
 
