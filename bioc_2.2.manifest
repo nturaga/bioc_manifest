@@ -512,3 +512,5 @@ Package: BAC
 Package: XDE
 
 Package: GraphAlignment
+
+Package: mdqc
