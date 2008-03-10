@@ -514,3 +514,5 @@ Package: XDE
 Package: GraphAlignment
 
 Package: mdqc
+
+Package: BCRANK
