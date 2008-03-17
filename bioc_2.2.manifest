@@ -516,3 +516,5 @@ Package: GraphAlignment
 Package: mdqc
 
 Package: BCRANK
+
+Package: snpMatrix
