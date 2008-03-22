@@ -518,3 +518,6 @@ Package: mdqc
 Package: BCRANK
 
 Package: snpMatrix
+
+Package: BiostringsCinterfaceDemo
+
