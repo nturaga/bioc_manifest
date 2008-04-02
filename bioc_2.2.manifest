@@ -526,3 +526,5 @@ Package: GSEAlm
 Package: affyPara
 
 Package: flowClust
+
+Package: GeneSelector
