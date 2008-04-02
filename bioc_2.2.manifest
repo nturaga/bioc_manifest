@@ -528,3 +528,5 @@ Package: affyPara
 Package: flowClust
 
 Package: GeneSelector
+
+Package: GEOmetadb
