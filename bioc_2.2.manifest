@@ -534,3 +534,5 @@ Package: GEOmetadb
 Package: GenomeGraphs
 
 Package: RBioinf
+
+Package: rtracklayer
