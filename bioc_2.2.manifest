@@ -303,8 +303,6 @@ Package: Mfuzz
 
 Package: adSplit
 
-Package: RPostgreSQL
-
 Package: copa
 
 Package: GeneRfold
