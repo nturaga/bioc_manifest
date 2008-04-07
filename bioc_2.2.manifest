@@ -532,3 +532,5 @@ Package: GeneSelector
 Package: GEOmetadb
 
 Package: GenomeGraphs
+
+Package: RBioinf
