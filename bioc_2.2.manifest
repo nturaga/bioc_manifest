@@ -127,8 +127,6 @@ Package: marray
 
 Package: convert
 
-Package: pairseqsim
-
 Package: Resourcerer
 
 Package: prada
