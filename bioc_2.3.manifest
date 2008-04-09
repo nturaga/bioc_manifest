@@ -181,8 +181,6 @@ Package: stepNorm
 
 Package: MVCClass
 
-Package: iSPlot
-
 Package: macat
 
 Package: SBMLR
@@ -203,7 +201,7 @@ Package: made4
 
 Package: spotSegmentation
 
-Package: tilingArray 
+Package: tilingArray
 
 Package: safe
 
@@ -350,8 +348,6 @@ Package: pcot2
 Package: spikeLI
 
 Package: BioMVCClass
-
-Package: iSNetwork
 
 Package: lapmix
 
