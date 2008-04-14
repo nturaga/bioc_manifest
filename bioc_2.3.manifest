@@ -151,8 +151,6 @@ Package: globaltest
 
 Package: GeneTraffic
 
-Package: arrayMagic
-
 Package: OLIN
 
 Package: MLInterfaces
