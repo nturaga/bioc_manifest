@@ -169,8 +169,6 @@ Package: twilight
 
 Package: hopach
 
-Package: stam
-
 Package: OLINgui
 
 Package: DEDS
@@ -333,10 +331,6 @@ Package: ABarray
 
 Package: Harshlight
 
-Package: prism
-
-Package: BeadExplorer
-
 Package: quantsmooth
 
 Package: aroma.light
@@ -387,15 +381,11 @@ Package: RefPlus
 
 Package: occugene
 
-Package: lumi
-
 Package: pdInfoBuilder
 
 Package: BufferedMatrix
 
 Package: BufferedMatrixMethods
-
-Package: GeneticsDesign
 
 Package: seqLogo
 
@@ -412,8 +402,6 @@ Package: exonmap
 Package: SLqPCR
 
 Package: rHVDM
-
-Package: GeneticsBase
 
 Package: fbat
 
@@ -486,8 +474,6 @@ Package: Rtreemix
 Package: BiocCaseStudies
 
 Package: BGmix
-
-Package: plw
 
 Package: gaga
 
