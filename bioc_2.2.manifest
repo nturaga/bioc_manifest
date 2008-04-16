@@ -13,8 +13,6 @@ Package: genefilter
 
 Package: geneplotter
 
-Package: rhdf5
-
 Package: multtest
 
 Package: ctc
