@@ -405,8 +405,6 @@ Package: SLqPCR
 
 Package: rHVDM
 
-Package: fbat
-
 Package: CALIB
 
 Package: PGSEA
