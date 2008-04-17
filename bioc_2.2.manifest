@@ -329,6 +329,8 @@ Package: ABarray
 
 Package: Harshlight
 
+Package: BeadExplorer
+
 Package: quantsmooth
 
 Package: aroma.light
@@ -378,6 +380,8 @@ Package: cosmo
 Package: RefPlus
 
 Package: occugene
+
+Package: lumi
 
 Package: pdInfoBuilder
 
@@ -472,6 +476,8 @@ Package: Rtreemix
 Package: BiocCaseStudies
 
 Package: BGmix
+
+Package: plw
 
 Package: gaga
 
