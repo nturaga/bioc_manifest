@@ -203,8 +203,6 @@ Package: plgem
 
 Package: RankProd
 
-Package: MCRestimate
-
 Package: xcms
 
 Package: MiPP
@@ -328,8 +326,6 @@ Package: sigPathway
 Package: ABarray
 
 Package: Harshlight
-
-Package: BeadExplorer
 
 Package: quantsmooth
 
@@ -512,3 +508,5 @@ Package: GenomeGraphs
 Package: RBioinf
 
 Package: rtracklayer
+
+Package: GGBase
