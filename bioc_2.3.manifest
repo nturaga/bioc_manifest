@@ -524,3 +524,5 @@ Package: GenomeGraphs
 Package: RBioinf
 
 Package: rtracklayer
+
+Package: ShortRead
