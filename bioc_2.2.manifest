@@ -512,3 +512,5 @@ Package: RBioinf
 Package: rtracklayer
 
 Package: GGBase
+
+Package: AffyCompatible
