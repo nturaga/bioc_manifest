@@ -37,8 +37,6 @@ Package: makecdfenv
 
 Package: widgetTools
 
-Package: SAGElyzer
-
 Package: Rgraphviz
 
 Package: affycomp
