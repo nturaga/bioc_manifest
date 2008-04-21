@@ -525,4 +525,6 @@ Package: RBioinf
 
 Package: rtracklayer
 
+Package: GGBase
+
 Package: ShortRead
