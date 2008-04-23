@@ -497,8 +497,6 @@ Package: BCRANK
 
 Package: snpMatrix
 
-Package: BiostringsCinterfaceDemo
-
 Package: GSEAlm
 
 Package: affyPara
