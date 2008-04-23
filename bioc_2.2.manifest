@@ -385,6 +385,8 @@ Package: BufferedMatrix
 
 Package: BufferedMatrixMethods
 
+Package: GeneticsDesign
+
 Package: seqLogo
 
 Package: cosmoGUI
@@ -400,6 +402,10 @@ Package: exonmap
 Package: SLqPCR
 
 Package: rHVDM
+
+Package: GeneticsBase
+
+Package: fbat
 
 Package: CALIB
 
