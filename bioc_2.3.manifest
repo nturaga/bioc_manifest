@@ -530,3 +530,5 @@ Package: GGBase
 Package: AffyCompatible
 
 Package: ShortRead
+
+Package: spkTools
