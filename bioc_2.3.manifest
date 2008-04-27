@@ -529,6 +529,8 @@ Package: GGBase
 
 Package: AffyCompatible
 
+Package: goProfiles
+
 Package: ShortRead
 
 Package: spkTools
