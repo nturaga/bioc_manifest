@@ -516,3 +516,5 @@ Package: rtracklayer
 Package: GGBase
 
 Package: AffyCompatible
+
+Package: goProfiles
