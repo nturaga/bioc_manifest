@@ -536,3 +536,7 @@ Package: ShortRead
 Package: spkTools
 
 Package: LPEadj
+
+Package: CGHbase
+
+Package: CGHregions
