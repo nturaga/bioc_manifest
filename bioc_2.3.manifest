@@ -540,3 +540,5 @@ Package: LPEadj
 Package: CGHbase
 
 Package: CGHregions
+
+Package: CMA
