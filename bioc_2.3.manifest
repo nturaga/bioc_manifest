@@ -548,3 +548,5 @@ Package: SIM
 Package: dualKS
 
 Package: miRNApath
+
+Package: multiscan
