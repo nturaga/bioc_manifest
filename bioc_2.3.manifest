@@ -550,3 +550,5 @@ Package: dualKS
 Package: miRNApath
 
 Package: multiscan
+
+Package: minet
