@@ -552,3 +552,5 @@ Package: miRNApath
 Package: multiscan
 
 Package: minet
+
+Package: iterativeBMA
