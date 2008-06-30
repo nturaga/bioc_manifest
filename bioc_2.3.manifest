@@ -554,3 +554,7 @@ Package: multiscan
 Package: minet
 
 Package: iterativeBMA
+
+Package: ITALICS
+
+Package: iterativeBMAsurv
