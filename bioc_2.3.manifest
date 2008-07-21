@@ -558,3 +558,5 @@ Package: iterativeBMA
 Package: ITALICS
 
 Package: iterativeBMAsurv
+
+Package: DFP
