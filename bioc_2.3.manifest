@@ -95,6 +95,8 @@ Package: LPE
 
 Package: pickgene
 
+Package: IRanges
+
 Package: Biostrings
 
 Package: qvalue
