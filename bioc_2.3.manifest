@@ -375,8 +375,6 @@ Package: flowQ
 
 Package: flowViz
 
-Package: SemSim
-
 Package: AnnotationDbi
 
 Package: cosmo
