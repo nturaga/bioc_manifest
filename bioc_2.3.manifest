@@ -574,3 +574,9 @@ Package: MEDME
 Package: ArrayTools
 
 Package: microRNA
+
+Package: RNAither
+
+Package: ArrayExpress
+
+Package: KCsmart
