@@ -527,8 +527,6 @@ Package: goProfiles
 
 Package: ShortRead
 
-Package: spkTools
-
 Package: LPEadj
 
 Package: CGHbase
