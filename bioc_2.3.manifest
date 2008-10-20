@@ -586,3 +586,7 @@ Package: affyContam
 Package: arrayMvout
 
 Package: BicARE
+
+Package: HilbertVis
+
+Package: HilbertVisGUI
