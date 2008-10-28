@@ -590,3 +590,5 @@ Package: BicARE
 Package: HilbertVis
 
 Package: HilbertVisGUI
+
+Package: flagme
