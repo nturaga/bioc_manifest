@@ -592,3 +592,5 @@ Package: HilbertVis
 Package: HilbertVisGUI
 
 Package: flagme
+
+Package: MCRestimate
