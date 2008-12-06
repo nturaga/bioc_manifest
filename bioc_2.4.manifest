@@ -594,3 +594,7 @@ Package: HilbertVisGUI
 Package: flagme
 
 Package: MCRestimate
+
+Package: AffyTiling
+
+Package: gene2pathway
