@@ -604,3 +604,5 @@ Package: GOSemSim
 Package: KEGGgraph
 
 Package: qpgraph
+
+Package: spkTools
