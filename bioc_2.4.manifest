@@ -606,3 +606,5 @@ Package: KEGGgraph
 Package: qpgraph
 
 Package: spkTools
+
+Package: tspair
