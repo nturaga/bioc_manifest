@@ -617,5 +617,7 @@ Package: metahdep
 
 Package:CAMERA
 
+Package:genomeIntervals
+
 
 
