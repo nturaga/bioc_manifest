@@ -77,8 +77,6 @@ Package: RdbiPgSQL
 
 Package: ontoTools
 
-Package: AnnBuilder
-
 Package: RBGL
 
 Package: webbioc
