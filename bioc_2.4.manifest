@@ -611,8 +611,6 @@ Package: DAVIDQuery
 
 Package: metahdep
 
-Package:CAMERA
+Package: CAMERA
 
 Package: genomeIntervals
-
-
