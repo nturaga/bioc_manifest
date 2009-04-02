@@ -629,4 +629,6 @@ Package: biocDatasets
 
 Package: dyebias
 
+Package: qpcrNorm
+
 
