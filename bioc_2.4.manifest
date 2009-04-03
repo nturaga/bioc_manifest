@@ -632,3 +632,10 @@ Package: dyebias
 Package: qpcrNorm
 
 Package: SSPA
+
+Package: GeneRegionScan
+
+Package: rMAT
+
+Package: flowStats
+
