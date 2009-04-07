@@ -131,8 +131,6 @@ Package: prada
 
 Package: DNAcopy
 
-Package: RSNPper
-
 Package: GOstats
 
 Package: aCGH
@@ -640,5 +638,3 @@ Package: rMAT
 Package: flowStats
 
 Package: TargetSearch
-
-
