@@ -93,8 +93,6 @@ Package: IRanges
 
 Package: Biostrings
 
-Package: BiostringsCinterfaceDemo
-
 Package: qvalue
 
 Package: GeneR
@@ -640,4 +638,3 @@ Package: flowStats
 Package: TargetSearch
 
 Package: Rmagpie
-
