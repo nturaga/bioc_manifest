@@ -651,3 +651,5 @@ Package: RmiR
 
 Package: chipseq
 
+Package: flowMerge
+
