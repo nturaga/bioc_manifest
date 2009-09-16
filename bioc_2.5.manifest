@@ -93,8 +93,6 @@ Package: IRanges
 
 Package: Biostrings
 
-Package: BiostringsCinterfaceDemo
-
 Package: qvalue
 
 Package: GeneR
