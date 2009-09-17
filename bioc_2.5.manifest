@@ -671,3 +671,6 @@ Package: mBPCR
 
 Package: ChIPsim
 
+Package: plateCore
+
+
