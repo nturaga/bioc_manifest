@@ -431,8 +431,6 @@ Package: cellHTS2
 
 Package: biocGraph
 
-Package: Rintact
-
 Package: keggorth
 
 Package: SMAP
