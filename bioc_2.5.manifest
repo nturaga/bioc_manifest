@@ -693,4 +693,6 @@ Package: ChromHeatMap
 
 Package: ChIPseqR
 
+Package: HTqPCR
+
 
