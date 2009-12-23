@@ -706,3 +706,6 @@ Package: DEGseq
 Package: SpeCond
 
 Package: Genominator
+
+Package: eisa
+
