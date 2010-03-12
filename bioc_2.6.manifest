@@ -738,3 +738,6 @@ Package: charm
 Package: SamSPECTRAL
 
 Package: segmentSeq
+
+Package: GenomicRanges
+
