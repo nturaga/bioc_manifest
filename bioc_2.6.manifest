@@ -741,3 +741,5 @@ Package: segmentSeq
 
 Package: GenomicRanges
 
+Package: genoCN
+
