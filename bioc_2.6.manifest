@@ -744,3 +744,5 @@ Package: GenomicRanges
 Package: genoCN
 
 Package: BeadDataPackR
+
+Package: MotIV
