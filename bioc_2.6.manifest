@@ -746,3 +746,5 @@ Package: genoCN
 Package: BeadDataPackR
 
 Package: MotIV
+
+Package: girafe
