@@ -748,3 +748,5 @@ Package: BeadDataPackR
 Package: MotIV
 
 Package: girafe
+
+Package: Rsamtools
