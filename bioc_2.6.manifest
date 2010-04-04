@@ -750,3 +750,5 @@ Package: MotIV
 Package: girafe
 
 Package: Rsamtools
+
+Package: ExpressionView
