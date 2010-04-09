@@ -754,3 +754,5 @@ Package: Rsamtools
 Package: ExpressionView
 
 Package: tiger
+
+Package: goseq
