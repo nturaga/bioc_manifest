@@ -756,3 +756,5 @@ Package: ExpressionView
 Package: tiger
 
 Package: goseq
+
+Package: BayesPeak
