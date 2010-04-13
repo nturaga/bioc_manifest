@@ -762,3 +762,5 @@ Package: BayesPeak
 Package: SRAdb
 
 Package: PICS
+
+Package: flowMeans
