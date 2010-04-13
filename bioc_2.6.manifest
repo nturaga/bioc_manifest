@@ -760,3 +760,5 @@ Package: goseq
 Package: BayesPeak
 
 Package: SRAdb
+
+Package: PICS
