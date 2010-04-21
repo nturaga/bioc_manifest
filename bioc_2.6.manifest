@@ -768,3 +768,7 @@ Package: PROMISE
 Package: GEOsubmission
 
 Package: GSRI
+
+Package: flowTrans
+
+Package: xmapcore
