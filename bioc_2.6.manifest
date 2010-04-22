@@ -774,3 +774,5 @@ Package: flowTrans
 Package: xmapcore
 
 Package: genomes
+
+Package: affyILM
