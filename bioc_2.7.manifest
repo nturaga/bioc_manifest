@@ -776,3 +776,5 @@ Package: xmapcore
 Package: genomes
 
 Package: affyILM
+
+Package: attract
