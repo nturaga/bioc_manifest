@@ -778,3 +778,5 @@ Package: genomes
 Package: affyILM
 
 Package: attract
+
+Package: fabia
