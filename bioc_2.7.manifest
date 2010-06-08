@@ -49,8 +49,6 @@ Package: splicegear
 
 Package: gcrma
 
-Package: matchprobes
-
 Package: siggenes
 
 Package: annaffy
