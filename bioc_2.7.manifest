@@ -792,3 +792,5 @@ Package: IsoGeneGUI
 Package: CoGAPS
 
 Package: PatientGeneSets
+
+Package: BioNet
