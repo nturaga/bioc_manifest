@@ -794,3 +794,5 @@ Package: CoGAPS
 Package: PatientGeneSets
 
 Package: BioNet
+
+Package: CGEN
