@@ -796,3 +796,5 @@ Package: PatientGeneSets
 Package: BioNet
 
 Package: CGEN
+
+Package: HTSanalyzeR
