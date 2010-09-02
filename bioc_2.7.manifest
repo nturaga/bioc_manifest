@@ -798,3 +798,6 @@ Package: BioNet
 Package: CGEN
 
 Package: HTSanalyzeR
+
+Package: imageHTS
+
