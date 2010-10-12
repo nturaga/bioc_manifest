@@ -707,8 +707,6 @@ Package: eisa
 
 Package: CSAR
 
-Package: iFlow
-
 Package: DESeq
 
 Package: frma
