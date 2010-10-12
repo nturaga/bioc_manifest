@@ -819,3 +819,23 @@ Package: OTUbase
 
 Package: netresponse
 
+Package: iSeq
+
+Package: LVSmiRNA
+
+Package: gage
+
+Package: CRImage
+
+Package: ontoCAT
+
+Package: rnaSeqMap
+
+Package: RMAPPER
+
+Package: GeneGA
+
+Package: R453Plus1Toolbox
+
+Package: ADaCGH2
+
