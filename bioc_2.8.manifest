@@ -840,3 +840,6 @@ Package: R453Plus1Toolbox
 Package: ADaCGH2
 
 Package: MEDIPS
+
+Package: DEGraph
+
