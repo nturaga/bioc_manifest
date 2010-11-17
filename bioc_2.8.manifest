@@ -387,8 +387,6 @@ Package: annotationTools
 
 Package: LBE
 
-Package: exonmap
-
 Package: SLqPCR
 
 Package: rHVDM
