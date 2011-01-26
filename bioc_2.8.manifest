@@ -864,3 +864,5 @@ Package: Vega
 Package: Clonality
 
 Package: mgsa
+
+Package: seqbias
