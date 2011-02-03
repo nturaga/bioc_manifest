@@ -868,3 +868,5 @@ Package: mgsa
 Package: seqbias
 
 Package: TDARACNE
+
+Package: phenoTest
