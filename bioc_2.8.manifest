@@ -483,6 +483,8 @@ Package: BCRANK
 
 Package: snpMatrix
 
+Package: snpAssoc
+
 Package: GSEAlm
 
 Package: affyPara
