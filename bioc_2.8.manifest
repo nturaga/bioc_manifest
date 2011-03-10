@@ -876,3 +876,7 @@ Package: ExiMiR
 Package: mosaics
 
 Package: biocLite
+
+Package: chopsticks
+
+Package: pvac
