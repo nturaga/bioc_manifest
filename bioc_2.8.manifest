@@ -874,3 +874,5 @@ Package: phenoTest
 Package: ExiMiR
 
 Package: mosaics
+
+Package: biocLite
