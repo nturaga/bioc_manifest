@@ -875,7 +875,7 @@ Package: ExiMiR
 
 Package: mosaics
 
-Package: biocLite
+Package: Bioconductor
 
 Package: chopsticks
 
