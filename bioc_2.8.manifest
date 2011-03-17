@@ -615,8 +615,6 @@ Package: betr
 
 Package: crlmm
 
-Package: biocDatasets
-
 Package: dyebias
 
 Package: qpcrNorm
