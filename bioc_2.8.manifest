@@ -892,3 +892,5 @@ Package: clstutils
 Package: inveRsion
 
 Package: clusterProfiler
+
+Package: MSnbase
