@@ -890,3 +890,5 @@ Package: clst
 Package: clstutils
 
 Package: inveRsion
+
+Package: clusterProfiler
