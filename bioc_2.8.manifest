@@ -896,3 +896,5 @@ Package: clusterProfiler
 Package: MSnbase
 
 Package: ibh
+
+Package: flowPlots
