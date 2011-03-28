@@ -898,3 +898,5 @@ Package: MSnbase
 Package: ibh
 
 Package: flowPlots
+
+Package: AnnotationFuncs
