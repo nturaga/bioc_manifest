@@ -900,3 +900,5 @@ Package: ibh
 Package: flowPlots
 
 Package: AnnotationFuncs
+
+Package: ENVISIONQuery
