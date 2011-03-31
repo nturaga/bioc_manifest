@@ -906,3 +906,5 @@ Package: ENVISIONQuery
 Package: cn.farms
 
 Package: mcaGUI
+
+Package: Rsubread
