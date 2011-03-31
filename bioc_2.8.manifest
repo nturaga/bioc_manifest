@@ -910,3 +910,5 @@ Package: mcaGUI
 Package: Rsubread
 
 Package: genefu
+
+Package: survcomp
