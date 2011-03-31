@@ -902,3 +902,5 @@ Package: flowPlots
 Package: AnnotationFuncs
 
 Package: ENVISIONQuery
+
+package: cn.farms
