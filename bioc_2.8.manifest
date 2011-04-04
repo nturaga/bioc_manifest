@@ -391,10 +391,6 @@ Package: SLqPCR
 
 Package: rHVDM
 
-Package: GeneticsBase
-
-Package: fbat
-
 Package: CALIB
 
 Package: PGSEA
