@@ -908,3 +908,7 @@ Package: Rsubread
 Package: genefu
 
 Package: survcomp
+
+Package: genoset
+
+Package: qrqc
