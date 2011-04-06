@@ -869,8 +869,6 @@ Package: ExiMiR
 
 Package: mosaics
 
-Package: Bioconductor
-
 Package: chopsticks
 
 Package: pvac
