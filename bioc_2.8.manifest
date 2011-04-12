@@ -914,3 +914,15 @@ Package: qrqc
 Package: lol
 
 Package: NCIgraph
+
+Package: a4Base
+
+Package: a4Preproc
+
+Package: a4Classif
+
+Package: a4Core
+
+Package: a4Reporting
+
+Package: a4
