@@ -67,10 +67,6 @@ Package: factDesign
 
 Package: affyPLM
 
-Package: Rdbi
-
-Package: RdbiPgSQL
-
 Package: ontoTools
 
 Package: RBGL
