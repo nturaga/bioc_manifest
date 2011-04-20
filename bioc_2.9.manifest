@@ -139,8 +139,6 @@ Package: OLIN
 
 Package: MLInterfaces
 
-Package: rflowcyt
-
 Package: KEGGSOAP
 
 Package: nnNorm
