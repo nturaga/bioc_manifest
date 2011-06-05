@@ -929,3 +929,5 @@ Package: REDseq
 
 Package: qtbase
 
+Package: zlibbioc
+
