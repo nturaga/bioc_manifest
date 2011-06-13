@@ -921,6 +921,8 @@ Package: GSVA
 
 Package: Bioconductor
 
+Package: BiocInstaller
+
 Package: ArrayExpressHTS
 
 Package: flowWorkspace
