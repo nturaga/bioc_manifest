@@ -919,8 +919,6 @@ Package: anota
 
 Package: GSVA
 
-Package: Bioconductor
-
 Package: BiocInstaller
 
 Package: ArrayExpressHTS
