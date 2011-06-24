@@ -1,8 +1,6 @@
 ## Blank lines between all entries
 Package: Biobase
 
-Package: Ruuid
-
 Package: DynDoc
 
 Package: annotate
