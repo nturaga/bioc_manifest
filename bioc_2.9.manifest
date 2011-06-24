@@ -926,7 +926,7 @@ Package: ArrayExpressHTS
 Package: flowWorkspace
 
 Package: REDseq
-
+vvv
 Package: qtbase
 
 Package: zlibbioc
@@ -939,7 +939,7 @@ Package: DEXSeq
 
 Package: randPack
 
-Pacakge: cqn
+Package: cqn
 
 Package: inSilicoDb
 
