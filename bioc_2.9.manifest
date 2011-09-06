@@ -315,8 +315,6 @@ Package: BioMVCClass
 
 Package: lapmix
 
-Package: weaver
-
 Package: GGtools
 
 Package: beadarraySNP
