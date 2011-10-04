@@ -55,8 +55,6 @@ Package: daMA
 
 Package: externalVector
 
-Package: RMAGEML
-
 Package: gpls
 
 Package: MeasurementError.cor
