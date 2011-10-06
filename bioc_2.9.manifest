@@ -29,6 +29,8 @@ Package: vsn
 
 Package: graph
 
+Package: RMAGEML
+
 Package: hexbin
 
 Package: makecdfenv
