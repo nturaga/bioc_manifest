@@ -990,3 +990,5 @@ Package: DTA
 Package: EDASeq
 
 Package: dks
+
+Package: DiffBind
