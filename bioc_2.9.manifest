@@ -992,3 +992,23 @@ Package: EDASeq
 Package: dks
 
 Package: DiffBind
+
+Package: AGDEX
+
+Package: biovizBase
+
+Package: CNAnorm
+
+Package: cummeRbund
+
+Package: DECIPHER
+
+Package: GWASTools
+
+Package: minfi
+
+Package: predictionet
+
+Package: stepwiseCM
+
+Package: sva
