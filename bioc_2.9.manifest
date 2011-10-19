@@ -1012,3 +1012,9 @@ Package: predictionet
 Package: stepwiseCM
 
 Package: sva
+
+Package: r3Cseq
+
+Package: ggbio
+
+Package: MmPalateMiRNA
