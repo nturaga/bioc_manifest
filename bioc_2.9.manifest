@@ -1018,3 +1018,5 @@ Package: r3Cseq
 Package: ggbio
 
 Package: MmPalateMiRNA
+
+Package: isobar
