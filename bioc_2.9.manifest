@@ -1020,3 +1020,6 @@ Package: ggbio
 Package: MmPalateMiRNA
 
 Package: isobar
+
+Package: exomeCopy
+
