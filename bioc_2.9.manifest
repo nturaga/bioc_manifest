@@ -43,8 +43,6 @@ Package: affycomp
 
 Package: limma
 
-Package: pamr
-
 Package: splicegear
 
 Package: gcrma
