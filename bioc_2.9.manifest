@@ -971,6 +971,8 @@ Package: rqubic
 
 Package: mzR
 
+Package: qtpaint
+
 Package: GeneExpressionSignature
 
 Package: graphite
