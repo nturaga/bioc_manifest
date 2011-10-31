@@ -1028,3 +1028,6 @@ Package: CellNOptR
 Package: tweeDEseq 
 
 Package: ncdfFlow
+
+Package: cn.MOPS
+
