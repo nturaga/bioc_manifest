@@ -916,7 +916,7 @@ Package: ArrayExpressHTS
 Package: flowWorkspace
 
 Package: REDseq
-vvv
+
 Package: qtbase
 
 Package: zlibbioc
