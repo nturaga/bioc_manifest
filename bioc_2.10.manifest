@@ -31,8 +31,6 @@ Package: graph
 
 Package: RMAGEML
 
-Package: hexbin
-
 Package: makecdfenv
 
 Package: widgetTools
