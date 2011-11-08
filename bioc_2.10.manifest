@@ -1032,3 +1032,6 @@ Package: cn.mops
 Package: fastseg
 
 Package: trigger
+
+Package: spade 
+
