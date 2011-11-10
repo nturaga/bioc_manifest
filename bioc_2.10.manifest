@@ -1035,3 +1035,5 @@ Package: trigger
 
 Package: spade 
 
+Package: BiocGenerics
+
