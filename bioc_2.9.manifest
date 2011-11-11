@@ -1030,3 +1030,5 @@ Package: ncdfFlow
 Package: cn.mops
 
 Package: fastseg
+
+Package: trigger
