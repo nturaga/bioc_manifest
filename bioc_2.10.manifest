@@ -453,8 +453,6 @@ Package: mdqc
 
 Package: BCRANK
 
-Package: snpMatrix
-
 Package: snpStats
 
 Package: GSEAlm
