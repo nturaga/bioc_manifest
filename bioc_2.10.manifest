@@ -1035,3 +1035,9 @@ Package: spade
 
 Package: BiocGenerics
 
+Package: sigaR
+
+Package: virtualArray
+
+Package: ASEB
+
