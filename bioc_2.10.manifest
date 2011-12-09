@@ -1043,3 +1043,8 @@ Package: ASEB
 
 Package: AffyRNADegradation
 
+Package: maskBAD
+
+Package: GEWIST
+
+Package: easyRNASeq
