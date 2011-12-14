@@ -1048,3 +1048,6 @@ Package: maskBAD
 Package: GEWIST
 
 Package: easyRNASeq
+
+Package: rhdf5
+
