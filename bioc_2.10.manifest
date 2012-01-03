@@ -1052,3 +1052,5 @@ Package: easyRNASeq
 Package: rhdf5
 
 Package: pcaGoPromoter
+
+Package: manta
