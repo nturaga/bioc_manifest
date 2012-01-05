@@ -1054,3 +1054,5 @@ Package: rhdf5
 Package: pcaGoPromoter
 
 Package: manta
+
+Package: GeneGroupAnalysis
