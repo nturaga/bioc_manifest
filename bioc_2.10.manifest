@@ -1058,3 +1058,9 @@ Package: manta
 Package: GeneGroupAnalysis
 
 Package: DART
+
+Package: phyloseq
+
+Package: deepSNV
+
+Package: Gviz
