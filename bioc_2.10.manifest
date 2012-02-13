@@ -913,8 +913,6 @@ Package: flowWorkspace
 
 Package: REDseq
 
-Package: qtbase
-
 Package: zlibbioc
 
 Package: RCASPAR
@@ -966,8 +964,6 @@ Package: iontree
 Package: rqubic
 
 Package: mzR
-
-Package: qtpaint
 
 Package: GeneExpressionSignature
 
