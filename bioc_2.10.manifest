@@ -1060,3 +1060,5 @@ Package: phyloseq
 Package: deepSNV
 
 Package: Gviz
+
+Package: ternarynet
