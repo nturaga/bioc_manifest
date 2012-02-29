@@ -5,8 +5,6 @@ Package: DynDoc
 
 Package: annotate
 
-Package: edd
-
 Package: genefilter
 
 Package: geneplotter
@@ -28,8 +26,6 @@ Package: affy
 Package: vsn
 
 Package: graph
-
-Package: RMAGEML
 
 Package: makecdfenv
 
@@ -61,8 +57,6 @@ Package: factDesign
 
 Package: affyPLM
 
-Package: ontoTools
-
 Package: RBGL
 
 Package: webbioc
@@ -82,8 +76,6 @@ Package: IRanges
 Package: Biostrings
 
 Package: qvalue
-
-Package: GeneR
 
 Package: impute
 
@@ -620,8 +612,6 @@ Package: BUS
 Package: Rolexa
 
 Package: RPA
-
-Package: RTools4TB
 
 Package: ddCt
 
