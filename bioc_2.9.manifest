@@ -913,8 +913,6 @@ Package: flowWorkspace
 
 Package: REDseq
 
-Package: qtbase
-
 Package: zlibbioc
 
 Package: RCASPAR
