@@ -1052,3 +1052,5 @@ Package: deepSNV
 Package: Gviz
 
 Package: ternarynet
+
+Package: gwascat
