@@ -1054,3 +1054,5 @@ Package: Gviz
 Package: ternarynet
 
 Package: gwascat
+
+Package: NarrowPeaks
