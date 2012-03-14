@@ -1056,3 +1056,31 @@ Package: ternarynet
 Package: gwascat
 
 Package: NarrowPeaks
+
+Package: QUALIFIER
+
+Package: PING
+
+Package: BRAIN
+
+Package: IdMappingAnalysis
+
+Package: ffpe
+
+Package: coGPS
+
+Package: HybridMTest
+
+Package: BrainStars
+
+Package: birta
+
+Package: ReactomePA
+
+Package: cellGrowth
+
+Package: gprege
+
+Package: VegaMC
+
+Package: RchyOptimyx
