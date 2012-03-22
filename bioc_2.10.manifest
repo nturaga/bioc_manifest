@@ -1098,3 +1098,5 @@ Package: cnvGSA
 Package: HiTC
 
 Package: EBcoexpress
+
+Package: iASeq
