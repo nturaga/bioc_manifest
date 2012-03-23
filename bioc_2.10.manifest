@@ -1100,3 +1100,5 @@ Package: HiTC
 Package: EBcoexpress
 
 Package: iASeq
+
+Package MinimumDistance
