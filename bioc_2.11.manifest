@@ -1108,3 +1108,5 @@ Package: categoryCompare
 Package: DirichletMultinomial
 
 Package: ddgraph
+
+Package: cancerclass
