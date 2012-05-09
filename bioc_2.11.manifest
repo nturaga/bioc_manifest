@@ -1110,3 +1110,5 @@ Package: DirichletMultinomial
 Package: ddgraph
 
 Package: cancerclass
+
+Package: staRank
