@@ -1112,3 +1112,5 @@ Package: ddgraph
 Package: cancerclass
 
 Package: staRank
+
+Package: MiRaGe
