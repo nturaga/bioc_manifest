@@ -1133,8 +1133,6 @@ Package: AnnotationForge
 
 Package: OSAT
 
-Package: waveTiling
-
 Package: KEGGprofile
 
 Package: RGalaxy
