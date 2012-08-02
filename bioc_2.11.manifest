@@ -1142,3 +1142,6 @@ Package: synapter
 Package: bsseq
 
 Package: DBChIP
+
+Package: gmapR
+
