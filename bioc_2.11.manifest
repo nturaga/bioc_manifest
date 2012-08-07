@@ -1145,3 +1145,6 @@ Package: DBChIP
 
 Package: gmapR
 
+Package: CorMut
+
+Package: iPAC
