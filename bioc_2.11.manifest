@@ -1148,3 +1148,5 @@ Package: gmapR
 Package: CorMut
 
 Package: iPAC
+
+Package: networkBMA
