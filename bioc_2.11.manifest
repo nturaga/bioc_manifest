@@ -1148,3 +1148,7 @@ Package: CorMut
 Package: iPAC
 
 Package: networkBMA
+
+Package: waveTiling
+
+Package: triform
