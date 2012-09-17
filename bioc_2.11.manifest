@@ -327,8 +327,6 @@ Package: flowViz
 
 Package: AnnotationDbi
 
-Package: cosmo
-
 Package: RefPlus
 
 Package: occugene
