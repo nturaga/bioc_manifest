@@ -1173,8 +1173,6 @@ Package: fmcsR
 
 Package: lmdme
 
-Package: BigMatrix
-
 Package: OrganismDbi
 
 Package: hapFabia
