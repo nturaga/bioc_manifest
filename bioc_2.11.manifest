@@ -1214,3 +1214,6 @@ Package: NOISeq
 Package: chroGPS
 
 Package: VariantTools 
+
+Package: rSFFreader
+
