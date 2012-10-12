@@ -1185,8 +1185,6 @@ Package: gCMAP
 
 Package: motifStack
 
-Package: DDiGGER
-
 Package: DeconRNASeq
 
 Package: ReportingTools
