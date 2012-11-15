@@ -1228,3 +1228,10 @@ Package: UniProt.ws
 Package: plrs
 
 Package: BiocParallel
+
+Package: pvca
+
+Package: pRoloc
+
+Package: DriverNet
+
