@@ -1252,3 +1252,5 @@ Package: rTANDEM
 Package: Rbowtie
 
 Package: QuasR
+
+Package: KEGGREST
