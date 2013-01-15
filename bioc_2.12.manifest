@@ -1254,3 +1254,10 @@ Package: Rbowtie
 Package: QuasR
 
 Package: KEGGREST
+
+Package: casper
+
+Package: clipper
+
+Package: PathNet
+
