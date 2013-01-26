@@ -1265,3 +1265,6 @@ Package: DrugVsDisease
 
 Package: MethylSeekR
 
+Package: HTSFilter
+
+Package: rBiopaxParser
