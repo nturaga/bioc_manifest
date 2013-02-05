@@ -1268,3 +1268,10 @@ Package: MethylSeekR
 Package: HTSFilter
 
 Package: rBiopaxParser
+
+Package: SomatiCA
+
+Package: lpNet
+
+Package: MineICA
+
