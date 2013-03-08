@@ -543,8 +543,6 @@ Package: MCRestimate
 
 Package: AffyTiling
 
-Package: gene2pathway
-
 Package: GOSemSim
 
 Package: KEGGgraph
