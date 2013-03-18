@@ -1289,3 +1289,26 @@ Package: SANTA
 
 Package: gCMAPWeb
 
+Package: ARRmNormalization
+
+Package: deltaGseg
+
+Package: dexus
+
+Package: DrugVsDisease
+
+Package: epigenomix
+
+Package: HCsnip
+
+Package: jmosaics
+
+Package: pathview
+
+Package: RNASeqPower
+
+Package: SeqArray
+
+Package: SPEM
+
+
