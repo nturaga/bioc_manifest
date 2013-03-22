@@ -1305,4 +1305,14 @@ Package: SeqArray
 
 Package: SPEM
 
+Package: BaseSpaceR
+
+Package: CNORfeeder
+
+Package: eiR
+
+Package: ROntoTools
+
+Package: AnnotationHub
+
 
