@@ -1315,4 +1315,7 @@ Package: ROntoTools
 
 Package: AnnotationHub
 
+Package: metagenomeSeq
+
+Package: DASiR
 
