@@ -1320,3 +1320,16 @@ Package: metagenomeSeq
 Package: DASiR
 
 Package: SeqGSEA
+
+Package: metaR
+
+Package: geNetClassifier
+
+Package: copynumber
+
+Package: antiProfiles
+
+Package: PAPi
+
+Package: GENE.E
+
