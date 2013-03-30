@@ -1321,8 +1321,6 @@ Package: DASiR
 
 Package: SeqGSEA
 
-Package: metaR
-
 Package: geNetClassifier
 
 Package: copynumber
