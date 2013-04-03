@@ -1339,4 +1339,7 @@ Package: prebs
 
 Package: triplex
 
+Package: BiSeq
+
+Package: SplicingGraphs
 
