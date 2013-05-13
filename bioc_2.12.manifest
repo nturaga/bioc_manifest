@@ -1341,7 +1341,3 @@ Package: BiSeq
 
 Package: SplicingGraphs
 
-Package: clonotypeR
-
-Package: flowFit
-
