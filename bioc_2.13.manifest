@@ -1364,3 +1364,19 @@ Package: vtpnet
 Package: flowBeads
 
 Package: spliceR
+
+Package: cleaver
+
+Package: customProDB
+
+Package: mitoODE
+
+Package: NetSAM
+
+Package: paircompviz
+
+Package: pathifier
+
+Package: RDAVIDWebService
+
+Package: rTRM
