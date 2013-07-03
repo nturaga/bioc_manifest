@@ -1383,3 +1383,4 @@ Package: rTRM
 
 Package: maPredictDSC
 
+Package: BiocStyle
