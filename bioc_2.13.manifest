@@ -1384,3 +1384,14 @@ Package: rTRM
 Package: maPredictDSC
 
 Package: BiocStyle
+
+Package: cleanUpdTSeq
+
+Package: OmicCircos
+
+Package: seqCNA
+
+Package: SigFuge
+
+Package: TargetScore
+
