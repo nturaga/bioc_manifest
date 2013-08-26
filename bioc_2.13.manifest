@@ -1407,3 +1407,13 @@ Package: RRHO
 
 Package: msmsTests
 
+Package: Rchemcpp
+
+Package: rfPred
+
+Package: RTN
+
+Package: SeqVarTools
+
+Package: SpacePAC
+
