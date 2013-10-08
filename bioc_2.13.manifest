@@ -47,8 +47,6 @@ Package: annaffy
 
 Package: daMA
 
-Package: externalVector
-
 Package: gpls
 
 Package: MeasurementError.cor
@@ -122,8 +120,6 @@ Package: globaltest
 Package: OLIN
 
 Package: MLInterfaces
-
-Package: KEGGSOAP
 
 Package: nnNorm
 
@@ -477,8 +473,6 @@ Package: HELP
 
 Package: SIM
 
-Package: dualKS
-
 Package: miRNApath
 
 Package: multiscan
@@ -657,8 +651,6 @@ Package: eisa
 
 Package: CSAR
 
-Package: iFlow
-
 Package: DESeq
 
 Package: frma
@@ -718,8 +710,6 @@ Package: GEOsubmission
 Package: GSRI
 
 Package: flowTrans
-
-Package: xmapcore
 
 Package: genomes
 
