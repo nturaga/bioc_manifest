@@ -1458,3 +1458,38 @@ Package: rTRMui
 Package: SimBindProfiles
 
 Package: STRINGdb
+
+Package: AllelicImbalance
+
+Package: ampliQueso
+
+Package: bioassayR
+
+Package: CexoR
+
+Package: dagLogo
+
+Package: DNaseR
+
+Package: epivizr
+
+Package: exomePeak
+
+Package: flowMap
+
+Package: methylMnM
+
+Package: MSstats
+
+Package: openCyto
+
+Package: qcmetrics
+
+Package: shinyTANDEM
+
+Package: spliceSites
+
+Package: sRAP
+
+Package: TFBSTools
+
