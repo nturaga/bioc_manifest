@@ -1501,3 +1501,5 @@ Package: CNVrd2
 
 Package: GenomicAlignments
 
+Package: GOTHiC
+
