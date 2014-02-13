@@ -1541,5 +1541,5 @@ Package: savR
 
 Package: trackViewer
 
-Package: Seqnames
+Package: GenomeInfoDb 
 
