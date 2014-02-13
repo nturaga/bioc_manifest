@@ -1543,3 +1543,5 @@ Package: trackViewer
 
 Package: GenomeInfoDb 
 
+Package: SomaticSignatures
+
