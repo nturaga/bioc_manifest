@@ -183,10 +183,6 @@ Package: hypergraph
 
 Package: Category
 
-Package: pgUtils
-
-Package: maDB
-
 Package: GeneMeta
 
 Package: oligo
