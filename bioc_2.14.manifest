@@ -1613,3 +1613,11 @@ Package: Rariant
 
 Package: BiocCheck
 
+Package: flowCL
+
+Package: metaMS
+
+Package: CoverageView
+
+Package: VariantFiltering
+
