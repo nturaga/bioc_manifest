@@ -1642,3 +1642,8 @@ Package: MeSHDbi
 Package: meshr
 
 Package: NetPathMiner
+
+Package: ChIPseeker
+
+Package: fastLiquidAssociation
+
