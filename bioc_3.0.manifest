@@ -1637,3 +1637,8 @@ Package: gaucho
 
 Package: GenomicFiles
 
+Package: MeSHDbi
+
+Package: meshr
+
+Package: NetPathMiner
