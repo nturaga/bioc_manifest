@@ -763,8 +763,6 @@ Package: ontoCAT
 
 Package: rnaSeqMap
 
-Package: RMAPPER
-
 Package: GeneGA
 
 Package: R453Plus1Toolbox
