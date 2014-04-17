@@ -1645,3 +1645,5 @@ Package: ChIPseeker
 
 Package: fastLiquidAssociation
 
+Package: S4Vectors
+
