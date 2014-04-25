@@ -1647,3 +1647,5 @@ Package: fastLiquidAssociation
 
 Package: S4Vectors
 
+Package: hiAnnotator
+
