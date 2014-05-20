@@ -1655,3 +1655,7 @@ Package: monocle
 
 Package: HDTD
 
+Package: MoPS
+
+Package: DupChecker
+
