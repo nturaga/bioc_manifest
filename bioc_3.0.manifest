@@ -1659,3 +1659,7 @@ Package: MoPS
 
 Package: DupChecker
 
+Package: MethylAid
+
+Package: msQC
+
