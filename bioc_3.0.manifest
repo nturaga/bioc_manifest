@@ -1675,3 +1675,6 @@ Package: GSAR
 
 Package: DEGreport
 
+Package: RGSEA
+
+Package: ssviz
