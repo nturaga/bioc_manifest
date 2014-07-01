@@ -1687,4 +1687,15 @@ Package: DOQTL
 
 Package: flowDensity
 
+Package: oposSOM
+
+Package: pepStat
+
+Package: Polyfit
+
+Package: pRolocGUI
+
+Package: Pviz
+
+Package: shinyMethyl
 
