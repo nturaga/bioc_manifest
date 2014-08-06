@@ -1661,7 +1661,7 @@ Package: DupChecker
 
 Package: MethylAid
 
-Package: msQC
+Package: proteoQC
 
 Package: flowClean
 
