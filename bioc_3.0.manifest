@@ -1717,3 +1717,5 @@ Package: ballgown
 
 Package: STAN
 
+Package: interactiveDisplayBase
+
