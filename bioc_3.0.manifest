@@ -1719,8 +1719,6 @@ Package: STAN
 
 Package: interactiveDisplayBase
 
-Package: AIMS
-
 Package: metabomxtr
 
 Package: metagene
