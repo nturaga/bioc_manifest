@@ -1737,3 +1737,13 @@ Package: SemDist
 
 Package: quantro
 
+Package: compEpiTools
+
+Package: erccdashboard
+
+Package: hiReadsProcessor
+
+Package: MBASED
+
+Package: methylPipe
+
