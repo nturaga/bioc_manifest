@@ -1761,3 +1761,15 @@ Package:  SNPRelate
 
 Package:  NGScopy
 
+Package: rain
+
+Package: TSCAN
+
+Package: GOsummaries
+
+Package: geecc
+
+Package: seqplots
+
+Package: systemPipeR
+
