@@ -1785,3 +1785,36 @@ Package: MGFM
 
 Package: rRDP
 
+Package: GenomicInteractions
+
+Package: PSEA
+
+Package: ALDEx2
+
+Package: polyester
+
+Package: MSGFplus
+
+Package: derfinder
+
+Package: derfinderPlot
+
+Package: derfinderHelper
+
+Package: regionReport
+
+Package: FEM
+
+Package: MSGFgui
+
+Package: IdeoViz
+
+Package: proBAMr
+
+Package: ASGSCA
+
+Package: PAA
+
+Package: paxtoolsr
+
+Package: flowcatchR
