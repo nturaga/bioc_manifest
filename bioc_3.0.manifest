@@ -1851,5 +1851,9 @@ Package: ToPASeq
 
 Package: tracktables
 
+Package: BridgeDbR
 
+Package: MBAmethyl
+
+Package: Rqc
 
