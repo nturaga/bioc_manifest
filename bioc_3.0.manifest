@@ -99,8 +99,6 @@ Package: marray
 
 Package: convert
 
-Package: Resourcerer
-
 Package: prada
 
 Package: DNAcopy
@@ -791,8 +789,6 @@ Package: TurboNorm
 
 Package: Vega
 
-Package: Clonality
-
 Package: mgsa
 
 Package: seqbias
@@ -994,8 +990,6 @@ Package: spade
 Package: BiocGenerics
 
 Package: sigaR
-
-Package: virtualArray
 
 Package: ASEB
 
