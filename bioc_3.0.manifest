@@ -1861,3 +1861,5 @@ Package: EBSeqHMM
 
 Package: mygene
 
+Package: seqTools
+
