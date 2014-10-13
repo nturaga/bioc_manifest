@@ -1857,3 +1857,7 @@ Package: COSNet
 
 Package: specL
 
+Package: EBSeqHMM
+
+Package: mygene
+
