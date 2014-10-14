@@ -1749,11 +1749,11 @@ Package: switchBox
 
 Package: FourCSeq
 
-Package:  GenoView
+Package: GenoView
 
-Package:  SNPRelate
+Package: SNPRelate
 
-Package:  NGScopy
+Package: NGScopy
 
 Package: rain
 
