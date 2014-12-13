@@ -1893,5 +1893,17 @@ Package: mdgsa
 
 Package: rgsepd
 
+Package: AnalysisPageServer
 
+Package: chromDraw
+
+Package: CODEX
+
+Package: coMET
+
+Package: gespeR
+
+Package: RnaSeqSampleSize
+
+Package: TRONCO
 
