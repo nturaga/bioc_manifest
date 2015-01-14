@@ -1917,3 +1917,9 @@ Package: seqPattern
 
 Package: parglms
 
+Package: ggtree
+
+Package: seq2pathway
+
+Package: sidap
+
