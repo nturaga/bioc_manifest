@@ -1947,6 +1947,11 @@ Package: Rhtslib
 
 Package: BrowserViz
 
+Package: muscle
+
+Package: canceR
+
+
 
 
 
