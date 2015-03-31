@@ -1987,7 +1987,11 @@ Package: RBM
 
 Package: ComplexHeatmap
 
+Package: pmm
 
+Package: regioneR
+ 
+Package: RBM
 
 
 
