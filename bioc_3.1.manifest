@@ -1971,8 +1971,6 @@ Package: InPAS
 
 Package: TIN
 
-Package: DeMAND
-
 Package: ensembldb
 
 Package: gtrellis
