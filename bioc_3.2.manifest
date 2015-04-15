@@ -1503,8 +1503,6 @@ Package: flowBin
 
 Package: geneRxCluster
 
-Package: asmn
-
 Package: COHCAP
 
 Package: GeneOverlap
@@ -1558,8 +1556,6 @@ Package: alsace
 Package: Basic4Cseq
 
 Package: CAFE
-
-Package: COPDSexualDimorphism
 
 Package: INPower
 
