@@ -2097,13 +2097,13 @@ Package: rCGH
 
 Package: ropls
 
-Package : genotypeeval
+Package: genotypeeval
 
-Package : miRLAB
+Package: miRLAB
 
-Package : OGSA
+Package: OGSA
 
-Package : traseR
+Package: traseR
 
 Package: LedPred
 
