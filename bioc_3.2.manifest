@@ -2127,6 +2127,11 @@ Package: ABAEnrichment
 
 Package: TCGAbiolinks
 
+Package: BBCAnalyzer
 
- 
+Package: ChIPComp
+
+Package: myvariant
+
+Package: Path2PPI 
 
