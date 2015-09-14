@@ -2143,3 +2143,16 @@ Package: sbgr
 
 Package: AnnotationHubData
 
+Package: iGC
+
+Package: LOLA
+
+Package: motifbreakR
+
+Package: ProteomicsAnnotationHubData
+
+Package: RTCGA
+
+Package: systemPipeRdata
+
+
