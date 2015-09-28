@@ -2153,3 +2153,17 @@ Package: ProteomicsAnnotationHubData
 
 Package: RTCGA
 
+Package: DiffLogo
+
+Package: DNABarcodes
+
+Package: dupRadar
+
+Package: EnrichedHeatmap
+
+Package: FindMyFriends
+
+Package: Guitar
+
+Package: TarSeqQC
+
