@@ -2163,3 +2163,27 @@ Package: Guitar
 
 Package: TarSeqQC
 
+Package: DAPAR
+
+Package: gcatest
+
+Package: iCheck
+
+Package: Imetagene
+
+Package: lfa
+
+Package: MEAL
+
+Package: metagenomeFeatures
+
+Package: pathVar
+
+Package: Prostar
+
+Package: SICtools
+
+Package: SISPA
+
+Package: SWATH2stats
+
