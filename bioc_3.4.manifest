@@ -247,8 +247,6 @@ Package: sizepower
 
 Package: SNPchip
 
-Package: cellHTS
-
 Package: EBImage
 
 Package: OCplus
@@ -350,8 +348,6 @@ Package: PGSEA
 Package: Ringo
 
 Package: ACME
-
-Package: RWebServices
 
 Package: MassSpecWavelet
 
@@ -523,8 +519,6 @@ Package: flagme
 
 Package: MCRestimate
 
-Package: AffyTiling
-
 Package: GOSemSim
 
 Package: KEGGgraph
@@ -536,8 +530,6 @@ Package: spkTools
 Package: tspair
 
 Package: SPIA
-
-Package: DAVIDQuery
 
 Package: metahdep
 
@@ -569,8 +561,6 @@ Package: TargetSearch
 
 Package: Rmagpie
 
-Package: SJava
-
 Package: methylumi
 
 Package: CNTools
@@ -584,8 +574,6 @@ Package: flowMerge
 Package: flowFP
 
 Package: BUS
-
-Package: Rolexa
 
 Package: RPA
 
@@ -881,8 +869,6 @@ Package: randPack
 
 Package: cqn
 
-Package: inSilicoDb
-
 Package: Repitools
 
 Package: flowType
@@ -983,8 +969,6 @@ Package: fastseg
 
 Package: trigger
 
-Package: spade
-
 Package: BiocGenerics
 
 Package: sigaR
@@ -1048,8 +1032,6 @@ Package: gprege
 Package: VegaMC
 
 Package: RchyOptimyx
-
-Package: inSilicoMerging
 
 Package: BitSeq
 
@@ -1237,8 +1219,6 @@ Package: HTSFilter
 
 Package: rBiopaxParser
 
-Package: SomatiCA
-
 Package: lpNet
 
 Package: MineICA
@@ -1269,8 +1249,6 @@ Package: epigenomix
 
 Package: HCsnip
 
-Package: jmosaics
-
 Package: pathview
 
 Package: RNASeqPower
@@ -1291,8 +1269,6 @@ Package: AnnotationHub
 
 Package: metagenomeSeq
 
-Package: DASiR
-
 Package: SeqGSEA
 
 Package: geNetClassifier
@@ -1304,8 +1280,6 @@ Package: antiProfiles
 Package: PAPi
 
 Package: GENE.E
-
-Package: MMDiff
 
 Package: piano
 
@@ -1420,8 +1394,6 @@ Package: ArrayTV
 Package: BiRewire
 
 Package: GOSim
-
-Package: neaGUI
 
 Package: omicade4
 
@@ -1741,8 +1713,6 @@ Package: switchBox
 
 Package: FourCSeq
 
-Package: GenoView
-
 Package: SNPRelate
 
 Package: NGScopy
@@ -2057,8 +2027,6 @@ Package: acde
 
 Package: OperaMate
 
-Package: ELMER
-
 Package: RareVariantVis
 
 Package: caOmicsV
@@ -2112,8 +2080,6 @@ Package: variancePartition
 Package: Oscope
 
 Package: eudysbiome
-
-Package: metaX
 
 Package: NanoStringDiff
 
@@ -2307,8 +2273,11 @@ Package: dada2
 
 Package: MBttest
 
-Package: HDF5Array
+Package: ExperimentHub
 
+Package: ExperimentHubData
+
+Package: HDF5Array
 Package: MethPed
 
 Package: biosigner
@@ -2356,6 +2325,8 @@ Package: genphen
 Package: DEFormats
 
 Package: sscu
+
+Package: MultiAssayExperiment
 
 Package: GenoGAM
 
