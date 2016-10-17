@@ -541,8 +541,6 @@ Package: PAnnBuilder
 
 Package: GeneSelectMMD
 
-Package: betr
-
 Package: crlmm
 
 Package: dyebias
