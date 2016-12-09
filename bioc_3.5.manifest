@@ -2278,6 +2278,7 @@ Package: ExperimentHub
 Package: ExperimentHubData
 
 Package: HDF5Array
+
 Package: MethPed
 
 Package: biosigner
@@ -2595,4 +2596,6 @@ Package: MWASTools
 Package: GRridge
 
 Package: IWTomics
+
+Package: DelayedArray
 
