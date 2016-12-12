@@ -2599,3 +2599,17 @@ Package: IWTomics
 
 Package: DelayedArray
 
+Package: chimeraviz
+
+Package: RnaSeqGeneEdgeRQL
+
+Package: gcapc
+
+Package: BUMHMM
+
+Package: sparseDOSSA
+
+Package: clusterSeq
+
+Package: ramwas
+
