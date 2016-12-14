@@ -2613,3 +2613,7 @@ Package: clusterSeq
 
 Package: ramwas
 
+Package: scDD
+
+Package: samExploreR
+
