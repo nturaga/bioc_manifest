@@ -2619,3 +2619,7 @@ Package: samExploreR
 
 Package: scone
 
+Package: treeio
+
+Package: RJMCMCNucleosomes
+
