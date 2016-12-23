@@ -2623,3 +2623,7 @@ Package: treeio
 
 Package: RJMCMCNucleosomes
 
+Package: TCseq
+
+Package: coseq
+
