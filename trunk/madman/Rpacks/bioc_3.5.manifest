@@ -2627,3 +2627,11 @@ Package: TCseq
 
 Package: coseq
 
+Package: mimager
+
+Package: funtooNorm
+
+Package: DMRScan
+
+Package: ChIPexoQual
+
