@@ -2671,3 +2671,11 @@ Package: twoddpcr
 
 Package: EventPointer
 
+Package: Organism.dplyr
+
+Package: MIGSA
+
+Package: rqt
+
+Package: GISPA
+
