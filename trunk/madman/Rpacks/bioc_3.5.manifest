@@ -2679,3 +2679,11 @@ Package: rqt
 
 Package: GISPA
 
+Package: hicrep
+
+Package: epiNEM
+
+Package: IntEREst
+
+Package: pathprint
+
