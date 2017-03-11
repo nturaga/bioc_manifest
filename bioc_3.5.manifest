@@ -2687,3 +2687,9 @@ Package: IntEREst
 
 Package: pathprint
 
+Package: multiOmicsViz
+
+Package: MaxContrastProjection
+
+Package: branchpointer
+
