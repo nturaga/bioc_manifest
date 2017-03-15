@@ -2695,3 +2695,9 @@ Package: branchpointer
 
 Package: DaMiRseq
 
+Package: BioCor
+
+Package: BiocFileCache
+
+Package: motifcounter
+
