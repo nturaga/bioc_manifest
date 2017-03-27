@@ -2701,3 +2701,13 @@ Package: BiocFileCache
 
 Package: motifcounter
 
+Package: cydar
+
+Package: netReg
+
+Package: GA4GHclient
+
+Package: STROMA4
+
+Package: flowTime
+
