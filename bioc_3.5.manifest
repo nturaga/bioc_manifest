@@ -2724,4 +2724,29 @@ Package: RIVER
 Package: BioMedR
 
 Package: banocc
+Package: RaggedExperiment
+
+Package: basecallQC
+
+Package: CATALYST
+
+Package: GenomicScores
+
+Package: IMAS
+
+Package: semisup
+
+Package: ImpulseDE2
+
+Package: methylInheritance
+
+Package: biotmle
+
+Package: biotmleData
+
+Package: BLMA
+
+Package: TCGAWorkflow
+
+Package: metavizr
 
