@@ -2749,3 +2749,7 @@ Package: metavizr
 
 Package: cellbaseR
 
+Package: PPInfer
+
+Package: ideal
+
