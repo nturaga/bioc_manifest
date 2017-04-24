@@ -2754,3 +2754,13 @@ Package: PPInfer
 Package: ideal
 
 Package: heatmaps
+Package: ATACseqQC
+
+Package: pgca
+
+Package: RITAN
+
+Package: TSRchitect
+
+Package: msgbsR
+
