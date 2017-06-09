@@ -2763,3 +2763,7 @@ Package: miRBaseConverter
 
 Package: motifmatchr
 
+Package: cytofWorkflow
+
+Package: IsoformSwitchAnalyzeR
+
