@@ -2771,3 +2771,11 @@ Package: RTNsurvival
 
 Package: coexnet
 
+Package: mfa
+
+Package: RProtoBufLib
+
+Package: Rhdf5lib
+
+Package: scoreInvHap
+
