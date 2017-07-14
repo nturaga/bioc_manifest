@@ -2779,3 +2779,11 @@ Package: Rhdf5lib
 
 Package: scoreInvHap
 
+Package: scmap
+
+Package: phenopath
+
+Package: OPWeight
+
+Package: ClusterJudge
+
