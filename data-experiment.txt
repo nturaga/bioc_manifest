@@ -1,0 +1,634 @@
+## Blank lines between all entries
+Package: affydata
+
+Package: AffymetrixDataTestFiles
+
+Package: ALL
+
+Package: ALLMLL
+
+Package: AmpAffyExample
+
+Package: beta7
+
+Package: bronchialIL13
+
+Package: CLL
+
+Package: colonCA
+
+Package: davidTiling
+
+Package: ecoliLeucine
+
+Package: estrogen
+
+Package: faahKO
+
+Package: facsDorit
+
+Package: fibroEset
+
+Package: gaschYHS
+
+Package: gatingMLData
+
+Package: GGdata
+
+Package: golubEsets
+
+Package: harbChIP
+
+Package: HEEBOdata
+
+Package: hgu2beta7
+
+Package: HIVcDNAvantWout03
+
+Package: Iyer517
+
+Package: kidpack
+
+Package: MAQCsubset
+
+Package: MEEBOdata
+
+Package: ppiData
+
+Package: ProData
+
+Package: SNAData
+
+Package: SpikeIn
+
+Package: SpikeInSubset
+
+Package: stjudem
+
+Package: yeastCC
+
+Package: yeastExpData
+
+Package: lungExpression
+
+Package: lumiBarnes
+
+Package: hapmap100kxba
+
+Package: pumadata
+
+Package: CCl4
+
+Package: Neve2006
+
+Package: maqcExpression4plex
+
+Package: hapmap100khind
+
+Package: hapmap500knsp
+
+Package: hapmap500ksty
+
+Package: XhybCasneuf
+
+Package: tinesath1cdf
+
+Package: tinesath1probe
+
+Package: MAQCsubsetAFX
+
+Package: yeastGSData
+
+Package: msdata
+
+Package: hapmapsnp5
+
+Package: hapmapsnp6
+
+Package: MAQCsubsetILM
+
+Package: ccTutorial
+
+Package: ITALICSData
+
+Package: humanStemCell
+
+Package: hmyriB36
+
+Package: mvoutData
+
+Package: gcspikelite
+
+Package: dyebiasexamples
+
+Package: TargetSearchData
+
+Package: yeastRNASeq
+
+Package: frmaExampleData
+
+Package: mouse4302barcodevecs
+
+Package: hgu133plus2barcodevecs
+
+Package: hgu133abarcodevecs
+
+Package: charmData
+
+Package: leeBamViews
+
+Package: geneLenDataBase
+
+Package: EatonEtAlChIPseq
+
+Package: DLBCL
+
+Package: dressCheck
+
+Package: ceuhm3
+
+Package: ceu1kg
+
+Package: gageData
+
+Package: mosaicsExample
+
+Package: RNAinteractMAPK
+
+Package: affycompData
+
+Package: simpIntLists
+
+Package: breastCancerMAINZ
+
+Package: breastCancerNKI
+
+Package: breastCancerTRANSBIG
+
+Package: breastCancerUNT
+
+Package: breastCancerUPP
+
+Package: breastCancerVDX
+
+Package: NCIgraphData
+
+Package: GSVAdata
+
+Package: flowWorkspaceData
+
+Package: pasilla
+
+Package: LiebermanAidenHiC2009
+
+Package: cheung2010
+
+Package: yeastNagalakshmi
+
+Package: PREDAsampledata
+
+Package: iontreeData
+
+Package: minfiData
+
+Package: bladderbatch
+
+Package: GWASdata
+
+Package: beadarrayExampleData
+
+Package: TCGAMethylation450k
+
+Package: tweeDEseqCountData
+
+Package: BeadArrayUseCases
+
+Package: RnaSeqTutorial
+
+Package: serumStimulation
+
+Package: pcaGoPromoter.Hs.hg19
+
+Package: pcaGoPromoter.Mm.mm9
+
+Package: pcaGoPromoter.Rn.rn4
+
+Package: rheumaticConditionWOLLBOLD
+
+Package: cgdv17
+
+Package: dsQTL
+
+Package: ffpeExampleData
+
+Package: pasillaBamSubset
+
+Package: cnvGSAdata
+
+Package: cancerdata
+
+Package: miRNATarget
+
+Package: FunciSNP.data
+
+Package: PWMEnrich.Dmelanogaster.background
+
+Package: Mulder2012
+
+Package: waveTilingData
+
+Package: synapterdata
+
+Package: bsseqData
+
+Package: TBX20BamSubset
+
+Package: MEDIPSData
+
+Package: RMassBankData
+
+Package: KEGGdzPathwaysGEO
+
+Package: pd.atdschip.tiling
+
+Package: ChIPXpressData
+
+Package: fabiaData
+
+Package: stemHypoxia
+
+Package: LungCancerLines
+
+Package: RIPSeekerData
+
+Package: SNAGEEdata
+
+Package: pRolocdata
+
+Package: RforProteomics
+
+Package: curatedOvarianData
+
+Package: PathNetData
+
+Package: DvDdata
+
+Package: SomatiCAData
+
+Package: parathyroidSE
+
+Package: FANTOM3and4CAGE
+
+Package: ARRmData
+
+Package: cMap2data
+
+Package: ConnectivityMap
+
+Package: DREAM4
+
+Package: DrugVsDiseasedata
+
+Package: HD2013SGI
+
+Package: Hiiragi2013
+
+Package: antiProfilesData
+
+Package: leukemiasEset
+
+Package: MMDiffBamSubset
+
+Package: prebsdata
+
+Package: DeSousa2013
+
+Package: flowFitExampleData
+
+Package: RNAseqData.HNRNPC.bam.chr14
+
+Package: mammaPrintData
+
+Package: seventyGeneData
+
+Package: mitoODEdata
+
+Package: LungCancerACvsSCCGEO
+
+Package: DonaPLLP2013
+
+Package: IlluminaDataTestFiles
+
+Package: TargetScoreData
+
+Package: seqCNA.annot
+
+Package: Fletcher2013a
+
+Package: Fletcher2013b
+
+Package: curatedBladderData
+
+Package: chipenrich.data
+
+Package: FlowSorted.Blood.450k
+
+Package: SomaticCancerAlterations
+
+Package: PWMEnrich.Hsapiens.background
+
+Package: PWMEnrich.Mmusculus.background
+
+Package: JASPAR2014
+
+Package: ChAMPdata
+
+Package: Illumina450ProbeVariants.db
+
+Package: h5vcData
+
+Package: COSMIC.67
+
+Package: curatedCRCData
+
+Package: HiCDataLymphoblast
+
+Package: ceu1kgv
+
+Package: yri1kgv
+
+Package: ChimpHumanBrainData
+
+Package: healthyFlowData
+
+Package: COHCAPanno
+
+Package: Affyhgu133aExpr
+
+Package: Affymoe4302Expr
+
+Package: DMRcatedata
+
+Package: Affyhgu133A2Expr
+
+Package: Affyhgu133Plus2Expr
+
+Package: bcellViper
+
+Package: COPDSexualDimorphism.data
+
+Package: metaMSdata
+
+Package: MSBdata
+
+Package: FlowSorted.DLPFC.450k
+
+Package: HSMMSingleCell
+
+Package: blimaTestingData
+
+Package: KEGGandMetacoreDzPathwaysGEO
+
+Package: zebrafishRNASeq
+
+Package: msd16s
+
+Package: MUGAExampleData
+
+Package: pepDat
+
+Package: shinyMethylData
+
+Package: GSBenchMark
+
+Package: fission
+
+Package: airway
+
+Package: CRCL18
+
+Package: HiCDataHumanIMR90
+
+Package: RUVnormalizeData
+
+Package: TCGAcrcmiRNA
+
+Package: TCGAcrcmRNA
+
+Package: ListerEtAlBSseq
+
+Package: NGScopyData
+
+Package: rRDPData
+
+Package: derfinderData
+
+Package: RRBSdata
+
+Package: seqc
+
+Package: facopy.annot
+
+Package: genomationData
+
+Package: geuvPack
+
+Package: RnaSeqSampleSizeData
+
+Package: WES.1KG.WUGSC
+
+Package: mAPKLData
+
+Package: seq2pathway.data
+
+Package: CardinalWorkflows
+
+Package: DmelSGI
+
+Package: diggitdata
+
+Package: grndata
+
+Package: curatedBreastData
+
+Package: rcellminerData
+
+Package: MethylAidData
+
+Package: SVM2CRMdata
+
+Package: CopyhelpeR
+
+Package: SCLCBam
+
+Package: gskb
+
+Package: RnBeads.hg19
+
+Package: RnBeads.mm10
+
+Package: RnBeads.mm9
+
+Package: RnBeads.rn5
+
+Package: ELMER.data
+
+Package: AshkenazimSonChr21
+
+Package: minionSummaryData
+
+Package: RnBeads.hg38
+
+Package: ABAData
+
+Package: RTCGA.clinical
+
+Package: RTCGA.mutations
+
+Package: RTCGA.rnaseq
+
+Package: systemPipeRdata
+
+Package: mtbls2
+
+Package: TimerQuant
+
+Package: QDNAseq.hg19
+
+Package: QDNAseq.mm10
+
+Package: SNPhoodData
+
+Package: MEALData
+
+Package: miRcompData
+
+Package: PGPC
+
+Package: PCHiCdata
+
+Package: yriMulti
+
+Package: FIs
+
+Package: furrowSeg
+
+Package: JASPAR2016
+
+Package: geuvStore2
+
+Package: JctSeqData
+
+Package: tofsimsData
+
+Package: Single.mTEC.Transcriptomes
+
+Package: RTCGA.methylation
+
+Package: RTCGA.miRNASeq
+
+Package: RTCGA.mRNA
+
+Package: RTCGA.PANCAN12
+
+Package: RTCGA.RPPA
+
+Package: RTCGA.CNV
+
+Package: tximportData
+
+Package: FlowSorted.CordBlood.450k
+
+Package: GSE62944 
+
+Package: msqc1
+
+Package: prostateCancerCamcap
+
+Package: prostateCancerTaylor
+
+Package: prostateCancerStockholm
+
+Package: prostateCancerGrasso
+
+Package: prostateCancerVarambally
+
+Package: AneuFinderData
+
+Package: DAPARdata
+
+Package: CONFESSdata
+
+Package: GeuvadisTranscriptExpr
+
+Package: PasillaTranscriptExpr
+
+Package: QUBICdata
+
+Package: etec16s
+
+Package: HarmanData
+
+Package: diffloopdata
+
+Package: EGSEAdata
+
+Package: IHWpaper
+
+Package: msPurityData
+
+Package: curatedMetagenomicData 
+
+Package: minfiDataEPIC
+
+Package: lydata
+
+Package: flowQBData
+
+Package: chromstaRData
+
+Package: aracne.networks
+
+Package: ccdata
+
+Package: scRNAseq
+
+Package: PtH2O2lipids
+
+Package: alpineData
+
+Package: CellMapperData
+
+Package: HumanAffyData
+
+Package: M3DExampleData
+
+Package: KOdata
+
+Package: flowPloidyData
+
+Package: HelloRangesData
+
+Package: plasFIA
+
+Package: FlowSorted.CordBloodNorway.450k
+
+Package: VariantToolsData
+
+Package: ChIPexoQualExample
+
+Package: sampleClassifierData
+
+Package: MIGSAdata
+
+Package: pathprintGEOData
+
+Package: biotmleData
+
+Package: TCGAWorkflowData
+
+Package: RITANdata
+Package: microRNAome
+
+Package: OnassisJavaLibs
+
