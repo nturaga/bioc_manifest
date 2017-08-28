@@ -2821,7 +2821,7 @@ Package: Onassis
 
 Package: DEP
 
-Package: PKG
+Package: M3C
 
 Package: miRsponge
 
