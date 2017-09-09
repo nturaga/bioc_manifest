@@ -2837,3 +2837,5 @@ Package: microbiome
 
 Package: SPONGE
 
+Package: DMCHMM
+
