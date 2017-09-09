@@ -2839,3 +2839,5 @@ Package: SPONGE
 
 Package: DMCHMM
 
+Package: seqcombo
+
