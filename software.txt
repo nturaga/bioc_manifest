@@ -2853,3 +2853,5 @@ Package: InterMineR
 
 Package: TFARM
 
+Package: amplican
+
