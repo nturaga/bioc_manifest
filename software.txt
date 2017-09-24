@@ -2845,3 +2845,5 @@ Package: Rbowtie2
 
 Package: ChIPanalyser
 
+Package: apeglm
+
