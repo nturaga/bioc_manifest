@@ -2849,3 +2849,5 @@ Package: apeglm
 
 Package: TFHAZ
 
+Package: InterMineR
+
