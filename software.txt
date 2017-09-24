@@ -2847,3 +2847,5 @@ Package: ChIPanalyser
 
 Package: apeglm
 
+Package: TFHAZ
+
