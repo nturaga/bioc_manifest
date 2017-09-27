@@ -2859,3 +2859,5 @@ Package: miRmine
 
 Package: openPrimeR
 
+Package: AUCell
+
