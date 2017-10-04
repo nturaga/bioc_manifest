@@ -2865,3 +2865,5 @@ Package: openPrimeRui
 
 Package: multiMiR
 
+Package: seqCAT
+
