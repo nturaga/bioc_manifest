@@ -2867,3 +2867,5 @@ Package: multiMiR
 
 Package: seqCAT
 
+Package: panelcn.mops
+
