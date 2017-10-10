@@ -2871,3 +2871,5 @@ Package: panelcn.mops
 
 Package: MSstatsQC
 
+Package: scfind
+
