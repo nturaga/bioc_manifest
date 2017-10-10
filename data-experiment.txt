@@ -635,3 +635,5 @@ Package: OnassisJavaLibs
 
 Package: MSstatsBioData
 
+Package: restfulSEData
+
