@@ -2889,3 +2889,5 @@ Package: methyvim
 
 Package: PathwaySplice
 
+Package: chromVAR
+
