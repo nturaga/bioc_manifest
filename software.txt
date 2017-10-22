@@ -2905,3 +2905,5 @@ Package: iterClust
 
 Package: bnbc
 
+Package: scPipe
+
