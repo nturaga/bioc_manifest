@@ -649,3 +649,5 @@ Package: pcxn
 
 Package: pcxnData
 
+Package: curatedTCGAData
+
