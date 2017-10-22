@@ -2897,3 +2897,5 @@ Package: ANF
 
 Package: anota2seq
 
+Package: slalom
+
