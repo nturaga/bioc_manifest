@@ -645,13 +645,9 @@ Package: brgedata
 
 Package: HarmonizedTCGAData
 
-Package: pcxn
-
 Package: pcxnData
 
 Package: curatedTCGAData
-
-Package: SeqSQC
 
 Package: topdownrdata
 

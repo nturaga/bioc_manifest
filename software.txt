@@ -2923,3 +2923,6 @@ Package: ontoProc
 
 Package: ivygapSE
 
+Package: SeqSQC
+
+Package: pcxn
