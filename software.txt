@@ -2911,3 +2911,5 @@ Package: TnT
 
 Package: progeny
 
+Package: DelayedMatrixStats
+
