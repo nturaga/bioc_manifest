@@ -651,3 +651,5 @@ Package: pcxnData
 
 Package: curatedTCGAData
 
+Package: SeqSQC
+
