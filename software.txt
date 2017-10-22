@@ -2913,3 +2913,5 @@ Package: progeny
 
 Package: DelayedMatrixStats
 
+Package: rhdf5client
+
