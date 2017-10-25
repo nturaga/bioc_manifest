@@ -2926,7 +2926,10 @@ Package: ivygapSE
 Package: SeqSQC
 
 Package: pcxn
+
 Package: oncomix
 
 Package: PROPS
+
+Package: MetaCyto
 
