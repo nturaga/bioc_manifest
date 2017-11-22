@@ -2933,3 +2933,5 @@ Package: bcSeq
 
 Package: roma
 
+Package: loci2path
+
