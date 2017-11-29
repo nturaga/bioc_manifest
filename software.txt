@@ -2935,3 +2935,5 @@ Package: roma
 
 Package: loci2path
 
+Package: omicsPrint
+
