@@ -2941,3 +2941,5 @@ Package: signet
 
 Package: LineagePulse
 
+Package: GOfuncR
+
