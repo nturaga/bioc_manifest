@@ -1,0 +1,42 @@
+Package: annotation
+
+Package: arrays
+
+Package: chipseqDB
+
+Package: cytofWorkflow
+
+Package: EGSEA123
+
+Package: eQTL
+
+Package: ExpressionNormalizationWorkflow
+
+Package: generegulation
+
+Package: highthroughputassays
+
+Package: liftOver
+
+Package: methylationArrayAnalysis
+
+Package: proteomics
+
+Package: recountWorkflow
+
+Package: RNAseq123
+
+Package: rnaseqGene
+
+Package: RnaSeqGeneEdgeRQL
+
+Package: sequencing
+
+Package: simpleSingleCell
+
+Package: TCGAWorkflow
+
+Package: testproj
+
+Package: variants
+
