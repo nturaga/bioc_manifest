@@ -2927,21 +2927,3 @@ Package: transcriptogramer
 
 Package: esATAC
 
-Package: gep2pep
-
-Package: bcSeq
-
-Package: roma
-
-Package: loci2path
-
-Package: omicsPrint
-
-Package: signet
-
-Package: LineagePulse
-
-Package: GOfuncR
-
-Package: MAGeCKFlute
-
