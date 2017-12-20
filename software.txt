@@ -2927,3 +2927,20 @@ Package: transcriptogramer
 
 Package: esATAC
 
+Package: oneChannelGUI
+
+Package: domainsignatures
+
+Package: RCytoscape
+
+Package: iontree
+
+Package: stepwiseCM
+
+Package: ddgraph
+
+Package: HCsnip
+
+Package: EWCE
+
+Package: BioMedR
